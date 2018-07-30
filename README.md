@@ -7,3 +7,13 @@ docsify init ./docs
 
 docsify serve ./docs
 ```
+
+
+#### init
+```
+fuxiaosongdeMac-mini:nav fuxiaosong$ docsify init ./docs
+
+Initialization succeeded! Please run docsify serve ./docs
+
+fuxiaosongdeMac-mini:nav fuxiaosong$
+```
