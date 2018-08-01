@@ -1,5 +1,5 @@
-* [daily](nav/daily.md)
-* [hao](nav/hao.md)
+* [Daily](nav/daily.md)
+* [Hao](nav/hao.md)
 
 * Go
 
