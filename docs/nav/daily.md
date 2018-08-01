@@ -9,4 +9,7 @@ SDC设计师网址导航 - [hao.uisdc.com](https://hao.uisdc.com/)
 ---
 
 玩 Android - [wanandroid.com](http://wanandroid.com/)  
+Golang 开发者社区 - [ioscaff.com](https://golangcaff.com/)  
 iOS 开发者社区 - [ioscaff.com](https://ioscaff.com/)  
+vuejs 开发者社区 - [ioscaff.com](https://vuejscaff.com/)  
+Python 开发者社区 - [ioscaff.com](https://pythoncaff.com/)  
