@@ -5,6 +5,7 @@
 
   * [网站](golang/sites.md)
   * [图书](golang/books.md)
+  * [教程](golang/course.md)
   * [视频](golang/videos.md)
   * [博客&文章](golang/articles.md)
   * [微信公众号文章](golang/weixin.md)

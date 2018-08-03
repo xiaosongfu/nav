@@ -20,6 +20,10 @@ markdown 在线写作平台 - [zybuluo.com](https://www.zybuluo.com/)
 永久保存一个网页 - [archive.is](http://archive.is/)  
 录制并分享命令行操作 - [asciinema.org](https://asciinema.org/)  
 
+http://rubular.com/ 在线正则表达式测试，可实时看到结果
+
+https://www.draw.io/ 在线画流程图，思维导图，甘特图等，可以备份云端
+
 ---
 
 > 静态站点生成(博客/文档)

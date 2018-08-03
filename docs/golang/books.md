@@ -1,11 +1,92 @@
-#### 1 纸质书
+### 1 纸质书
 
-* 《Go程序设计语言》（go 语言圣经，有中文和英文共3本）  
-* 《Go语言实战》  
-* 《Go Web编程》  
-* 《Go并发编程实战（第2版）》  
+#### 《The Go Programming Language》
 
-#### 2 电子书
+![](https://lollipop.xiaosongfu.com/nav/golang/the-go-programming-language.jpg)  
+
+> 图书信息
+
+* 作者/译者：艾伦A. A. 多诺万 著，李道兵，高博，庞向才，金鑫鑫，林齐斌 译
+* 出版社：机械工业出版社
+* 出版时间：2016-01-01（英文版） | 2017-05-01（中文版）
+
+官网：[gopl.io](http://www.gopl.io/)  
+Github 中文翻译：[github.com/gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com)  
+在线阅读：[https://docs.hacknode.org/gopl-zh/](https://docs.hacknode.org/gopl-zh/ch0/ch0-01.html)
+
+> 内容简介
+
+本书由《C程序设计语言》的作者Kernighan和谷歌公司Go团队主管Alan Donovan联袂撰写，是学习Go语言程序设计的指南。本书共13章，主要内容包括：Go的基础知识、基本结构、基本数据类型、复合数据类型、函数、方法、接口、goroutine、通道、共享变量的并发性、包、go工具、测试、反射等。
+
+本书适合作为计算机相关专业的教材，也可供Go语言爱好者阅读。
+
+> 作者简介
+
+无
+
+> 参考链接
+
+* 豆瓣读书：[《Go程序设计语言》](https://book.douban.com/subject/27044219/)
+* 京东：[《Go程序设计语言》](https://item.jd.com/12187988.html) | [《Go程序设计语言（英文版）》](https://item.jd.com/11864836.html)
+
+#### 《Go In Action》 
+
+![]()  
+
+> 图书信息
+
+* 作者/译者：
+* 出版社：
+* 出版时间：
+
+> 内容简介
+
+> 作者简介
+
+> 参考链接
+
+* 豆瓣读书：[《》]()
+* 京东：[《》]()
+
+#### 《Go Web编程》  
+
+![]()  
+
+> 图书信息
+
+* 作者/译者：
+* 出版社：
+* 出版时间：
+
+> 内容简介
+
+> 作者简介
+
+> 参考链接
+
+* 豆瓣读书：[《》]()
+* 京东：[《》]()
+
+#### 《Go并发编程实战（第2版）》  
+
+![]()  
+
+> 图书信息
+
+* 作者/译者：
+* 出版社：
+* 出版时间：
+
+> 内容简介
+
+> 作者简介
+
+> 参考链接
+
+* 豆瓣读书：[《》]()
+* 京东：[《》]()
+
+### 2 电子书
 
 > 《Go语言高级编程》  
 https://github.com/chai2010/advanced-go-programming-book
@@ -16,21 +97,7 @@ https://github.com/songleo/the-little-go-book_ZH_CN
 > 《Go Web 编程》  
 https://github.com/astaxie/build-web-application-with-golang
 
->  《The Way to Go/Go入门指南》  
+>  《Go入门指南》  
 https://github.com/Unknwon/the-way-to-go_ZH_CN
 
-#### 3 标准库学习
 
-> Go标准库学习笔记  
-https://github.com/preytaren/go-doc-zh
-
-> The Golang Standard Library by Example  
-https://github.com/polaris1119/The-Golang-Standard-Library-by-Example
-
-> golang语言包用法（csdn 专栏）  
-https://blog.csdn.net/column/details/golang-package.html
-
-#### 4 GO 命令
-
-> GO 命令教程  
-https://github.com/hyper0x/go_command_tutorial/
