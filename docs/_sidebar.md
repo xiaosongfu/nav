@@ -41,3 +41,11 @@
   * [视频](kotlin/videos.md)
   * [博客&文章](kotlin/articles.md)
   * [微信公众号文章](kotlin/weixin.md)
+
+* 人工智能&机器学习
+
+  * [网站](deeplearning/sites.md)
+  * [图书](deeplearning/books.md)
+  * [视频](deeplearning/videos.md)
+  * [博客&文章](deeplearning/articles.md)
+  * [微信公众号文章](deeplearning/weixin.md)

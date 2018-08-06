@@ -16,4 +16,8 @@ Python 开发者社区 - [pythoncaff.com](https://pythoncaff.com/)
 
 ---
 
-GoCN 每日新闻资讯 - [每日新闻](https://gocn.vip/explore/category-14)
+[GoCN 每日新闻资讯](https://gocn.vip/explore/category-14)
+
+[Hacker News](https://news.ycombinator.com/)
+
+Github Explore - [github.com/explore](https://github.com/explore)
