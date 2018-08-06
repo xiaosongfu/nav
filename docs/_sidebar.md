@@ -1,7 +1,7 @@
 * [Daily](nav/daily.md)
 * [Hao](nav/hao.md)
 
-* Go
+* Golang
 
   * [网站](golang/sites.md)
   * [图书](golang/books.md)
@@ -9,6 +9,15 @@
   * [视频](golang/videos.md)
   * [博客&文章](golang/articles.md)
   * [微信公众号文章](golang/weixin.md)
+
+* CNCF
+
+  * [网站](cncf/sites.md)
+  * [图书](cncf/books.md)
+  * [教程](cncf/course.md)
+  * [视频](cncf/videos.md)
+  * [博客&文章](cncf/articles.md)
+  * [微信公众号文章](cncf/weixin.md)
 
 * Flutter
 
@@ -18,13 +27,21 @@
   * [博客&文章](flutter/articles.md)
   * [微信公众号文章](flutter/weixin.md)
 
-* Dart
+* Dartlang
 
   * [网站](dartlang/sites.md)
   * [图书](dartlang/books.md)
   * [视频](dartlang/videos.md)
   * [博客&文章](dartlang/articles.md)
   * [微信公众号文章](dartlang/weixin.md)
+
+* 前端
+
+  * [网站](front/sites.md)
+  * [图书](front/books.md)
+  * [视频](front/videos.md)
+  * [博客&文章](front/articles.md)
+  * [微信公众号文章](front/weixin.md)
 
 * Android
 
@@ -49,3 +66,11 @@
   * [视频](deeplearning/videos.md)
   * [博客&文章](deeplearning/articles.md)
   * [微信公众号文章](deeplearning/weixin.md)
+
+  * C&C++
+
+  * [网站](c-c++/sites.md)
+  * [图书](c-c++/books.md)
+  * [视频](c-c++/videos.md)
+  * [博客&文章](c-c++/articles.md)
+  * [微信公众号文章](c-c++/weixin.md)
