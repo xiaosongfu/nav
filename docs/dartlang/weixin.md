@@ -1,0 +1,1 @@
+* [Dart重启！Dart2正式发布，目标成为移动与Web开发主流语言](https://mp.weixin.qq.com/s/7h9MLe9YJn0VmZ9Rsni-KA)

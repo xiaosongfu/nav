@@ -21,3 +21,17 @@ Python 开发者社区 - [pythoncaff.com](https://pythoncaff.com/)
 [Hacker News](https://news.ycombinator.com/)
 
 Github Explore - [github.com/explore](https://github.com/explore)
+
+---
+
+medium - [medium.com](https://medium.com/)
+
+简书 - [jianshu.com](https://www.jianshu.com/)
+
+掘金 - [juejin.im](https://juejin.im/)
+
+博客中国 - [blogchina.com](http://www.blogchina.com/)
+
+伯乐在线 - [jobbole.com](http://www.jobbole.com/)
+
+开源中国 - [oschina.net](https://www.oschina.net/)

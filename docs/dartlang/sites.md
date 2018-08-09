@@ -12,3 +12,9 @@ Dart packages - [pub.flutter-io.cn](https://pub.flutter-io.cn/)
 
 Dart 中文社区 - [dart-china.org](https://www.dart-china.org/)  
 Dart 语言中文社区 - [cndartlang.com](http://www.cndartlang.com/)  
+
+
+
+---
+
+[medium.com/dartlang](https://medium.com/dartlang)  
