@@ -1,3 +1,5 @@
+> 星标
+
 阮一峰的个人网站 - [ruanyifeng.com](http://www.ruanyifeng.com/)  
 
 * [网络日志](http://www.ruanyifeng.com/blog/)  

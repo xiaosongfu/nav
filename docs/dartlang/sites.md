@@ -1,6 +1,9 @@
 > Dart
 
 dartlang 官网 - [dartlang.org](https://www.dartlang.org/)  
+
+dartlang news - [news.dartlang.org](https://news.dartlang.org/)
+
 dartlang 中文网 - [www.dartlang.cc](http://www.dartlang.cc/)   
 
 > pub
