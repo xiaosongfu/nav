@@ -22,6 +22,8 @@ Hacker News - [Hacker News](https://news.ycombinator.com/)
 
 Github Explore - [github.com/explore](https://github.com/explore)
 
+Github Trending - [github.com/trending](https://github.com/trending)
+
 ---
 
 medium - [medium.com](https://medium.com/)

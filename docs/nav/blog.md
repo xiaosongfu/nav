@@ -22,8 +22,8 @@
 
 |    名称   |   网址   |   备注  |
 | :-------- | :------ | :------: |
-| x | x | x |
-
+|    酷壳   | [coolshell.cn](https://coolshell.cn/) |  |
+| 王垠 | [yinwang.org](http://www.yinwang.org/) |  |
 
 ---
 

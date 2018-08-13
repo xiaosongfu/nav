@@ -3,9 +3,9 @@
 ```
 npm i docsify-cli -g
 
-docsify init ./docs
+docsify init docs
 
-docsify serve ./docs
+docsify serve docs -o true
 ```
 
 

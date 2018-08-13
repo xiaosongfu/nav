@@ -28,6 +28,8 @@
 
 ### Jetpack
 
+![]()
+
 * [Android Jetpack 助推应用开发 | 中文字幕视频介绍](https://mp.weixin.qq.com/s/o_q4FgVJjYeP2OHEB8PjnQ)   
 * [code小生 @ Android Jetpack - 使用 WorkManager 管理后台任务](https://mp.weixin.qq.com/s/Z_1qmXraIBboAcR8NGkpdQ)  
 * [code小生 @ Android Jetpack - 使用 Navigation 管理页面跳转](https://mp.weixin.qq.com/s/gFFnTChoTiwSiBD8DTCQ_Q)  
@@ -43,17 +45,19 @@
 * []()  
 * []()  
 
-### 
+---
 
-* []()  
-* []()  
-* []()  
-* []()  
+---
 
-### 
-
+!> Android 9 Pie
+  
+* [Android P 凹口屏支持，打造全面屏体验](https://mp.weixin.qq.com/s/LyInks673YdHbXsDOD4inA)
+* [后续更新 | 减少使用非 SDK 接口以提升稳定性](https://mp.weixin.qq.com/s/s7emrOIawReRX4G24WGAvw)  
 * []()  
 * []()  
 * []()  
 * []()  
 * []()  
+* []()  
+* []()  
+* []()

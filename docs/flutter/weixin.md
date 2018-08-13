@@ -5,12 +5,6 @@
 * []()  
 * []()  
 
-### flutter for Deskto App
-
-* [feather-apps.com](https://feather-apps.com/)  
-* [github.com/google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)  
-
-
 ### 闲鱼技术(微信号:XYtech_Alibaba)
 
 * [2018-05-06/Android Flutter内存初探](https://mp.weixin.qq.com/s/efKCpCtvvHDHUiAsizobBQ)  
