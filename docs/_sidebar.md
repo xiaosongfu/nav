@@ -1,6 +1,7 @@
 * [Daily](nav/daily.md)
 * [Hao](nav/hao.md)
 * [Blog](nav/blog.md)
+* [Site](nav/site.md)
 
 * Golang
 
