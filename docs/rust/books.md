@@ -1,6 +1,10 @@
 ### 1 纸质书
 
 
+深入浅出Rust
+
+https://item.jd.com/31808606183.html
+
 ### 2 电子书
 
 #### 《The Rust Programming Language》

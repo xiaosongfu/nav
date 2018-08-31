@@ -30,3 +30,4 @@ http://doc.crates.io/guide.html) : Cargo（Rust 的包管理器）的文档。
 ---
 
 版本发布历史：https://github.com/rust-lang/rust/blob/master/RELEASES.md
+Rust 2018 即将到来：设法从 Rust 2015 过渡:https://weibo.com/ttarticle/p/show?id=2309404275409901497570

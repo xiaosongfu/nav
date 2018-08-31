@@ -26,6 +26,8 @@ medium - [medium.com](https://medium.com/)
 
 掘金 - [juejin.im](https://juejin.im/)
 
+segmentfault - [segmentfault.com](https://segmentfault.com/)
+
 博客中国 - [blogchina.com](http://www.blogchina.com/)
 
 伯乐在线 - [jobbole.com](http://www.jobbole.com/)
@@ -33,11 +35,21 @@ medium - [medium.com](https://medium.com/)
 开源中国 - [oschina.net](https://www.oschina.net/)
 
 ---
+http://www.qdaily.com
 
-SDC设计师网址导航 - [hao.uisdc.com](https://hao.uisdc.com/)  
-创造师导航 - [chuangzaoshi.com](http://chuangzaoshi.com/)  
+http://liqi.io
+
+---
+
+https://sspai.com/
+https://www.waerfa.com/
 
 ---
 
 优设 - [uisdc.com](https://www.uisdc.com/)  
 优优教程网 - [uiiiuiii.com](https://uiiiuiii.com/)  
+
+---
+
+
+https://www.weibo.com/GoogleDevelopers

@@ -1,4 +1,4 @@
-> google.cn & google.com
+!> google.cn & google.com
 
 | google.cn | google.com |
 | :-------- | :------    |
@@ -18,7 +18,7 @@
 
 ---
 
-> googleblog.com
+!> googleblog.com
 
 | googleblog.com |   notes    |
 | :--------      | :------    |
@@ -29,11 +29,12 @@
 | [china.googleblog.com](https://china.googleblog.com/) | Google 黑板报 |
 |  |  |
 | [opensource.googleblog.com](https://opensource.googleblog.com/) | Google Open Source Blog |
-
+|  |  |
+| [cloudplatform.googleblog.com](https://cloudplatform.googleblog.com/) | Google Cloud Platform Blog |
 
 ---
 
-> opensource.google.com
+!> opensource.google.com
 
 |     网址   |    说明    |
 | :--------  | :------    |
@@ -43,33 +44,12 @@
 | [opensource.google.com/projects/go](https://opensource.google.com/projects/go) | go |
 | [opensource.google.com/projects/kubernetes](https://opensource.google.com/projects/kubernetes) | kubernetes |
 
-
 ---
 
-> googlesource.com
+!> googlesource.com
 
 |     网址   |    说明    |
 | :--------  | :------    |
 | [go.googlesource.com](https://go.googlesource.com/) | go |
 | [fuchsia.googlesource.com](https://fuchsia.googlesource.com/) | fuchsia |
 | [android.googlesource.com](https://android.googlesource.com/) |  |
-
----
-
-> 云服务提供商
-
-|    提供商    |    说明     |
-| :--------    | :------    |
-| [阿里云](https://www.aliyun.com/)         |  |
-| [滴滴云](https://www.didiyun.com/)        |  |
-| [百度云](https://cloud.baidu.com/)        |  |
-| [腾讯云](https://cloud.tencent.com/)      |  |
-| [京东云](https://www.jdcloud.com/)        |  |
-| [美团云](https://www.mtyun.com/)          |  |
-| [华为云](https://www.huaweicloud.com/)    |  |
-| [中国电信天翼云](http://www.ctyun.cn/)     |  |
-| [新浪云](https://www.sinacloud.com/) |  |
-| [金山云](https://www.ksyun.com/) |  |
-|  |  |
-| [https://www.azure.cn/zh-cn/](https://www.azure.cn/zh-cn/) |  |
-| [https://amazonaws-china.com/cn/](https://amazonaws-china.com/cn/) |  |

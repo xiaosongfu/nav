@@ -22,6 +22,11 @@ Flutter 中文开发者论坛 - [flutter-dev.cn](http://flutter-dev.cn/)
 
 https://flutterweekly.net/ --> 订阅 flutter weekly
 
+https://twitter.com/flutteriodaily
+
+https://twitter.com/flutterio
+
+
 ---
 
 > flutter for Deskto App
