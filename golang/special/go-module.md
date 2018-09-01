@@ -4,11 +4,14 @@
 
 Golang modules 初探 ：https://gocn.vip/article/957
 
-Travis CI 如何支持go modules 和 vendor : https://arslan.io/2018/08/26/using-go-modules-with-vendor-support-on-travis-ci/
+Go 语言的 Modules 系统介绍： https://studygolang.com/articles/14389
 
 ---
 
+Travis CI 如何支持go modules 和 vendor : https://arslan.io/2018/08/26/using-go-modules-with-vendor-support-on-travis-ci/
+
 Go modules:https://systemdump.io/posts/2018-07-22-go-modules
+
 Playing With Go Modules ：https://roberto.selbach.ca/playing-with-go-modules/ （已过时）
 Introduction to Go Modules ：https://roberto.selbach.ca/intro-to-go-modules/
 

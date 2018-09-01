@@ -1,0 +1,1 @@
+一个收集 app 输出日志的工具: https://github.com/ljuns/LogCollector
