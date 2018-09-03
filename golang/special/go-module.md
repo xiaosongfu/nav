@@ -6,6 +6,10 @@ Golang modules 初探 ：https://gocn.vip/article/957
 
 Go 语言的 Modules 系统介绍： https://studygolang.com/articles/14389
 
+Golang modules 初探 https://studygolang.com/articles/14588
+
+跳出Go module的泥潭 : https://mp.weixin.qq.com/s/PNJ9EVmdlwPNgln-RZnZQw
+
 ---
 
 Travis CI 如何支持go modules 和 vendor : https://arslan.io/2018/08/26/using-go-modules-with-vendor-support-on-travis-ci/

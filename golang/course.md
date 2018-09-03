@@ -3,6 +3,8 @@
 > Go by Example
 https://gobyexample.com/
 
+> goin5minutes
+https://www.goin5minutes.com/screencasts/
 
 #### 标准库学习
 
