@@ -6,3 +6,6 @@ https://blog.golang.org/go2draft
 Go2设计草案 https://golang.org/s/go2designs
 
 https://github.com/golang/proposal/blob/master/design/go2draft.md
+
+
+Notes on the Go2 Generics Draft - http://jmoiron.net/blog/notes-on-the-go2-generics-draft

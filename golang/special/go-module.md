@@ -1,3 +1,5 @@
+### 文章
+
 ##### 精选
 
 初窥Go module : https://mp.weixin.qq.com/s/ris9hYqRMKMX-HCZMpNMkg
@@ -41,3 +43,20 @@ https://talks.godoc.org/github.com/myitcv/talks/2018-08-15-glug-modules/main.sli
 
 Go 1.11 Modules官方Wiki   
 https://github.com/golang/go/wiki/Modules
+
+
+---
+---
+---
+---
+
+### go proxy
+
+##### 1. athens
+
+* https://github.com/gomods/athens
+* https://docs.gomods.io/
+
+##### 2. goproxy.io
+
+* goproxy.io for Go modules : https://mp.weixin.qq.com/s/COethtOaiygsYev-kkCc4A
