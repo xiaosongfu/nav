@@ -1,5 +1,5 @@
 GoCN 每日新闻资讯 - [GoCN 每日新闻资讯](https://gocn.vip/explore/category-14)
-
+iOS-Weekly - [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly/tree/master/Reports)
 Hacker News - [Hacker News](https://news.ycombinator.com/)
 
 Github Explore - [github.com/explore](https://github.com/explore)

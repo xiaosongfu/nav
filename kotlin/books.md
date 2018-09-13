@@ -1,6 +1,6 @@
 #### 《Kotlin极简教程》
 
-![](https://lollipop.xiaosongfu.com/nav/kotlin/kotlin2.jpg)  
+![](https://lollipop.xiaosongfu.com/nav/kotlin/kotlin1.jpg)  
 
 > 图书信息
 

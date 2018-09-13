@@ -33,4 +33,4 @@ https://twitter.com/flutterio
 
 * [feather-apps.com](https://feather-apps.com/)  
 * [github.com/google/flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding)  
-
+* [github.com/Drakirus/go-flutter-desktop-embedder](https://github.com/Drakirus/go-flutter-desktop-embedder)

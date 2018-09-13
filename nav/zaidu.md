@@ -14,3 +14,8 @@ Serverless Start-ups in Golang - Part 1 - https://ewanvalentine.io/serverless-st
 
 ##### Golang & Angular Series
 Golang & Angular Series - Part 1: Developing and Securing Golang APIs  - https://auth0.com/blog/developing-golang-and-angular-apps-part-1-backend-api/
+
+
+##### Google Developer Advocate Sandeep Dinesh 关于如何充分利用Kubernetes环境的七部分视频和博客系列
+第一篇：如何构建尽可能小的容器镜像？https://mp.weixin.qq.com/s/T1Rp8x-WWzG9iXqXFp3ADw  
+第二篇：如何使用命名空间管理Kubernetes资源？https://mp.weixin.qq.com/s/n1FAqihXtop7dzkTlC-oag  

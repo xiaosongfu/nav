@@ -9,7 +9,9 @@
 GMTC 全球大前端技术大会：https://gmtc.geekbang.org/
 
 ---
+> 教育视频网站
 
+https://boxueio.com/
 
 ---
 
@@ -49,6 +51,14 @@ http://coolaf.com/tool/chattest 在线 websocket 测试工具
 
 https://github.com/faressoft/terminalizer  --- Record your terminal and generate animated gif images
 
+
+
+
+> PDF转换
+
+* https://lightpdf.com/zh/
+* https://smallpdf.com/
+* http://app.xunjiepdf.com/
 
 ---
 
