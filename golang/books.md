@@ -1,5 +1,3 @@
-### 1 纸质书
-
 #### 《The Go Programming Language》
 
 ![](https://lollipop.xiaosongfu.com/nav/golang/the-go-programming-language.jpg)  
@@ -85,41 +83,3 @@ Github 中文翻译：[github.com/gopl-zh/gopl-zh.github.com](https://github.com
 
 * 豆瓣读书：[《》]()
 * 京东：[《》]()
-
-### 2 电子书
-
-####《Go语言高级编程》
-
-> 简介
-
-> 在线阅读
-https://github.com/chai2010/advanced-go-programming-book
-
-####《Go简易教程》
-
-> 简介
-
-> 在线阅读
-https://github.com/songleo/the-little-go-book_ZH_CN
-
-####《Go Web 编程》
-
-> 简介
-
-> 在线阅读 
-https://github.com/astaxie/build-web-application-with-golang
-
-####《Go入门指南》
-
-> 简介
-
-> 在线阅读
-https://github.com/Unknwon/the-way-to-go_ZH_CN
-
-
-####《Learn Go with tests》
-
-> 简介
-
-> 在线阅读  
-https://quii.gitbook.io/learn-go-with-tests/

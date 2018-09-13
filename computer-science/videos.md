@@ -1,0 +1,1 @@
+https://github.com/1c7/crash-course-computer-science-chinese => 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成) 
