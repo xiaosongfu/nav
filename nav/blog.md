@@ -34,6 +34,7 @@
 |    名称   |   网址   |   备注  |
 | :-------- | :------ | :------: |
 | Ewan Valentine  | [ewanvalentine.io](https://ewanvalentine.io/) |  |
+| cyeam | [cyeam.com](http://www.cyeam.com/) | #golang |
 
 ---
 
@@ -42,3 +43,5 @@
 |    名称   |   网址   |   备注  |
 | :-------- | :------ | :------: |
 | 有赞技术团队 | [tech.youzan.com](https://tech.youzan.com/) | - |
+| stream | [getstream.io/blog](https://getstream.io/blog/) | - |
+| golangbot | [golangbot.com](https://golangbot.com/) | #golang |

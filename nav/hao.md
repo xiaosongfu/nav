@@ -45,12 +45,28 @@ markdown 在线写作平台 & 微信公众号格式化工具 - [md.barretlee.com
 markdown 在线写作平台 - [md.aclickall.com](http://md.aclickall.com/)  
 markdown 在线写作平台 - [zybuluo.com](https://www.zybuluo.com/)  
 
+开源在线 Markdown 编辑器 - [stackedit.io](https://stackedit.io/)
+开源在线 Markdown 编辑器 - [dillinger.io](https://dillinger.io/)
+
+在线正则表达式测试，可实时看到结果 - [rubular.com](http://rubular.com/)   
+
+免费在线作图，实时协作 - [processon.com](https://www.processon.com/)
+在线画流程图，思维导图，甘特图等，可以备份云端 - [draw.io](https://www.draw.io/ )  
+ - [asciiflow.com](http://asciiflow.com/)
+
+在线表格生成工具 - [tablesgenerator.com](https://www.tablesgenerator.com/) =>你只需要在其中像富文本一样编辑表格，他就会自动把表格的内容转换相应的标记语法，目前 Tables Generator 支持 LaTex、HTML、Markdown 和 MediaWiki 四种语法，基本涵盖了主流需求。
+
+Excel 表格转 markdown - [this DaveJ](http://thisdavej.com/copy-table-in-excel-and-paste-as-a-markdown-table/) => 通过这个工具你可以将 Excel 表格里复制出来的内容转换为 Markdown 格式显示出来。
+
 
 
 http://coolaf.com/tool/chattest 在线 websocket 测试工具
 
 https://github.com/faressoft/terminalizer  --- Record your terminal and generate animated gif images
 
+
+
+https://reep.io/ 直接通过浏览器发送文件
 
 
 
@@ -66,8 +82,6 @@ https://github.com/faressoft/terminalizer  --- Record your terminal and generate
 
 永久保存一个网页 - [archive.is](http://archive.is/)   
 录制并分享命令行操作 - [asciinema.org](https://asciinema.org/)    
-在线正则表达式测试，可实时看到结果 - [rubular.com](http://rubular.com/)   
-在线画流程图，思维导图，甘特图等，可以备份云端 - [draw.io](https://www.draw.io/ )  
 
 ---
 

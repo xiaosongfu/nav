@@ -1,3 +1,10 @@
+####《The Go Programming Language》
+
+> 简介
+
+> 在线阅读
+[https://github.com/gopl-zh/gopl-zh.github.com/blob/master/SUMMARY.md](https://github.com/gopl-zh/gopl-zh.github.com/blob/master/SUMMARY.md)
+
 ####《Go语言高级编程》
 
 > 简介

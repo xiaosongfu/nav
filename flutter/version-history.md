@@ -1,6 +1,8 @@
 Release Notes: [https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/)
 
-!> 2018 年
+## 2018 年
+
+* 2018 年 9 月 20 号，在上海谷歌开发者大会主题演讲上，宣布 Flutter 预览版2.0正式发布：这将是 Flutter 正式版1.0发布前的最后一个预览版。
 
 * 2018 年 6 月，`Flutter 发布预览版(Release Preview)` 发布  
   - [Announcing Flutter Release Preview 1](https://medium.com/flutter-io/flutter-release-preview-1-943a9b6ee65a)    
@@ -16,7 +18,7 @@ Release Notes: [https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/
 * 2018 年 2 月 27 日，在 2018 年移动世界大会上 `Flutter beta 1` 官宣  
   - [Announcing Flutter beta 1: Build beautiful native apps](https://developers.googleblog.com/2018/02/announcing-flutter-beta-1.html)
 
-!> 2015 年
+## 2015 年
 
 * 2015 年 11 月，Sky 重命名为 Flutter
 

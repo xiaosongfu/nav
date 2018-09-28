@@ -56,6 +56,7 @@ https://github.com/golang/go/wiki/Modules
 
 * https://github.com/gomods/athens
 * https://docs.gomods.io/
+* 参考文章：[为 Go module 搭建私服](http://blog.cyeam.com/golang/2018/09/27/athens)
 
 ##### 2. goproxy.io
 

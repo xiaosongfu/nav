@@ -49,7 +49,7 @@
 
 |  仓库地址  |   备注  |
 | :-------- | :------ |
-| []() |  |
+| [hhrutter/pdfcpu](https://github.com/hhrutter/pdfcpu) | A PDF processor written in Go. |
 | []() |  |
 | []() |  |
 | []() |  |

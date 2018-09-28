@@ -18,6 +18,7 @@ https://github.com/Unknwon/go-study-index
 
 * https://github.com/xmge/gonote
 
+* https://github.com/bonfy/go-mega
 
 ### 开发 GUI 应用
 * https://github.com/murlokswarm/app => Package to build GUI apps with Go, HTML and CSS.

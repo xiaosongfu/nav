@@ -8,3 +8,31 @@
 |            |                  |
 | [manning](https://www.manning.com/)         |  |
 | [packtpub](https://www.packtpub.com/)       |  |
+
+---
+
+https://www.manning.com/books/get-programming-with-go  
+https://www.manning.com/books/go-web-programming  
+
+https://www.manning.com/books/go-in-action  
+
+https://www.manning.com/books/intellij-idea-in-action
+https://www.manning.com/books/kotlin-in-action  
+https://www.manning.com/books/gradle-in-action
+
+https://www.manning.com/books/docker-in-action-second-edition
+https://www.manning.com/books/kubernetes-in-action  
+
+https://www.manning.com/books/dart-in-action  
+https://www.manning.com/books/flutter-in-action
+
+https://www.manning.com/books/microservices-in-action
+
+https://www.manning.com/books/machine-learning-in-action
+
+https://www.manning.com/books/google-cloud-platform-in-action
+https://www.manning.com/books/aws-lambda-in-action
+
+https://www.manning.com/books/redis-in-action
+
+https://www.manning.com/books/rust-in-action

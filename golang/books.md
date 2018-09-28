@@ -10,7 +10,7 @@
 
 官网：[gopl.io](http://www.gopl.io/)  
 Github 中文翻译：[github.com/gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com)  
-在线阅读：[https://docs.hacknode.org/gopl-zh/](https://docs.hacknode.org/gopl-zh/ch0/ch0-01.html)
+在线阅读：[https://docs.hacknode.org/gopl-zh/](https://docs.hacknode.org/gopl-zh/ch0/ch0-01.html) || [https://github.com/gopl-zh/gopl-zh.github.com/blob/master/SUMMARY.md](https://github.com/gopl-zh/gopl-zh.github.com/blob/master/SUMMARY.md)
 
 > 内容简介
 
