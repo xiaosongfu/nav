@@ -22,3 +22,7 @@ https://sebastian-holstein.de/post/2018-07-05-go-wasm-application/
 
 Web Assembly and Go: A look to the future  
 https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/
+
+---
+
+《C++面向wasm编程》开源！=> https://mp.weixin.qq.com/s/o4NIuc67eV3U_FGODT0ufA

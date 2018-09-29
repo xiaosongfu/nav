@@ -3,6 +3,7 @@ Release Notes: [https://flutter.io/sdk-archive/](https://flutter.io/sdk-archive/
 ## 2018 年
 
 * 2018 年 9 月 20 号，在上海谷歌开发者大会主题演讲上，宣布 Flutter 预览版2.0正式发布：这将是 Flutter 正式版1.0发布前的最后一个预览版。
+  - [[译] Flutter 发布预览版 2.0 : 完美适配 iOS丨Google 开发者大会2018](https://juejin.im/post/5ba3133b5188255c7663f485)
 
 * 2018 年 6 月，`Flutter 发布预览版(Release Preview)` 发布  
   - [Announcing Flutter Release Preview 1](https://medium.com/flutter-io/flutter-release-preview-1-943a9b6ee65a)    
