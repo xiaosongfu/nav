@@ -41,6 +41,9 @@ Go 知识图谱 https://www.processon.com/view/link/5a9ba4c8e4b0a9d22eb3bdf0
 
 Becoming a Go Contributor https://kev.inburke.com/slides/becoming-go-contributor/
 
+The Top Books For Learning Golang
+https://tutorialedge.net/golang/top-books-for-learning-golang/
+
 > 服务器框架
 
 * gin
@@ -83,5 +86,7 @@ Struct匿名字段
 嵌入interface
 
 ---
+
+字符串虽不能更改，但可进行切片操作
 
 对 slice 进行 slice 可以在容量范围内扩展

@@ -1,7 +1,9 @@
 * [Daily](nav/daily.md)
 * [Hao](nav/hao.md)
 * [Blog](nav/blog.md)
-* [Site](nav/site.md)
+
+* Site
+  * [图书社区](nav/site/bookstore.md)
 
 * Golang
 

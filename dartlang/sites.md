@@ -1,4 +1,4 @@
-!> Dartlang 官方资源
+## Dartlang 官方资源
 
 Dartlang 官网 - [dartlang.org](https://www.dartlang.org/)  
 
@@ -18,7 +18,7 @@ Dart packages - [pub.flutter-io.cn](https://pub.flutter-io.cn/)
 
 ---
 
-!> Dartlang 中文资源
+## Dartlang 中文资源
 
 > Dartlang 中文网
 
@@ -31,6 +31,6 @@ Dart 语言中文社区 - [cndartlang.com](http://www.cndartlang.com/)
 
 ---
 
-!> 其他
+## 其他
 
 [medium.com/dartlang](https://medium.com/dartlang)  

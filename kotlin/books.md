@@ -1,29 +1,6 @@
-#### 《Kotlin极简教程》
-
-![](https://lollipop.xiaosongfu.com/nav/kotlin/kotlin1.jpg)  
-
-> 图书信息
-
-* 作者/译者：陈光剑 著
-* 出版社：机械工业出版社
-* 出版时间：2017-09-01
-
-> 内容简介
-
-本书从Kotlin的HelloWorld开始，生动讲解Kotlin的基础知识和实战案例，分为两大部分：“基础知识”部分包括语言基础、基本数据类型与类型变量、集合类、泛型、面向对象编程、函数式编程、协程等；“实战”部分包括Kotlin与Java互操作、使用Kotlin集成Spring Boot开发WEB服务端、使用Kotlin集成Gradle开发、使用Kotlin和Anko的Android开发、使用Kotlin DSL、Kotlin文件IO操作与多线程、使用Kotlin Native。本书包含了大量精选示例代码和应用案例，为初学者提供了实用指南，也帮助熟练的Java开发者快速切换到Kotlin。
-
-> 作者简介
-
-陈光剑，资深开发人员，目前就职于阿里巴巴集团，参与过多种平台工具的开发，具有丰富的平台开发经验，操练过Java、Android、Scala、Groovy等语言进行领域建模、架构设计、工具开发，在工作中积累了大量经验，善于总结，乐于分享，发布过大量技术文章。
-
-> 参考链接
-
-* 豆瓣读书：[《Kotlin极简教程》](https://book.douban.com/subject/27135841/)
-* 京东：[《Kotlin极简教程》](https://item.jd.com/12181725.html)
-
 #### 《Kotlin实战》
 
-![](https://lollipop.xiaosongfu.com/nav/kotlin/kotlin-in-action.jpg)  
+![](https://img3.doubanio.com/view/subject/l/public/s29499733.jpg)  
 
 > 图书信息
 
@@ -56,9 +33,66 @@
 * 豆瓣读书：[《Kotlin实战》](https://book.douban.com/subject/27093660/)
 * 京东：[《Kotlin实战》](https://item.jd.com/12224904.html)
 
+---
+
+#### 《Kotlin极简教程》
+
+![](https://img1.doubanio.com/view/subject/l/public/s29539787.jpg)  
+
+> 图书信息
+
+* 作者/译者：陈光剑 著
+* 出版社：机械工业出版社
+* 出版时间：2017-09-01
+
+> 内容简介
+
+本书从Kotlin的HelloWorld开始，生动讲解Kotlin的基础知识和实战案例，分为两大部分：“基础知识”部分包括语言基础、基本数据类型与类型变量、集合类、泛型、面向对象编程、函数式编程、协程等；“实战”部分包括Kotlin与Java互操作、使用Kotlin集成Spring Boot开发WEB服务端、使用Kotlin集成Gradle开发、使用Kotlin和Anko的Android开发、使用Kotlin DSL、Kotlin文件IO操作与多线程、使用Kotlin Native。本书包含了大量精选示例代码和应用案例，为初学者提供了实用指南，也帮助熟练的Java开发者快速切换到Kotlin。
+
+> 作者简介
+
+陈光剑，资深开发人员，目前就职于阿里巴巴集团，参与过多种平台工具的开发，具有丰富的平台开发经验，操练过Java、Android、Scala、Groovy等语言进行领域建模、架构设计、工具开发，在工作中积累了大量经验，善于总结，乐于分享，发布过大量技术文章。
+
+> 参考链接
+
+* 豆瓣读书：[《Kotlin极简教程》](https://book.douban.com/subject/27135841/)
+* 京东：[《Kotlin极简教程》](https://item.jd.com/12181725.html)
+
+---
+
+#### 《Kotlin从入门到进阶实战》
+
+![](https://img3.doubanio.com/view/subject/l/public/s29872804.jpg)  
+
+> 图书信息
+
+* 作者/译者：陈光剑 
+* 出版社：清华大学出版社
+* 出版时间：2018-9-1
+
+> 内容简介
+
+《Kotlin从入门到进阶实战》从Kotlin 语言的基础语法讲起，逐步深入到Kotlin进阶实战，并在最后配合项目实战案例，重点介绍了使用Kotlin+Spring Boot进行服务端开发和使用Kotlin进行Android应用程序开发的内容，让读者不但可以系统地学习Kotlin编程的相关知识，而且还能对Kotlin应用开发有更为深入的理解。
+
+本书分为14章，涵盖的主要内容有Kotlin简介，Kotlin语法基础，类型系统与可空类型，类与面向对象编程，函数与函数式编程，扩展函数与属性，集合类，泛型，文件I/O操作、正则表达式与多线程，使用Kotlin创建DSL，运算符重载与约定，元编程、注解与反射，Kotlin集成Spring Boot服务端开发，使用Kotlin进行Android开发。
+
+本书内容通俗易懂，案例丰富，实用性强，特别适合Kotlin语言的入门读者和进阶读者阅读，也适合Android程序员、Java程序员等其他编程爱好者阅读，还适合作为相关培训机构的教材
+
+> 作者简介
+
+陈光剑 笔名一剑。资深程序员，现就职于阿里巴巴集团。有丰富的平台开发经验，曾经参与了多种平台工具的开发。使用Java、Android、Scala、Groovy和Kotlin等语言或工具进行领域建模、架构设计和工具开发等，积累了大量经验。善于总结，乐于分享，发布过大量技术文章，并著有《Kotlin极简教程》一书，深受读者好评。
+
+> 参考链接
+
+* 豆瓣读书：[《Kotlin从入门到进阶实战》](https://book.douban.com/subject/30329715/)
+* 京东：[《Kotlin从入门到进阶实战》]()
+
+
+---
+
 #### 《Kotlin程序开发入门精要》
 
-![](https://lollipop.xiaosongfu.com/nav/kotlin/kotlin2.jpg)  
+![](https://img3.doubanio.com/view/subject/l/public/s29535864.jpg)  
 
 > 图书信息
 

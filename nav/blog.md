@@ -42,6 +42,7 @@
 
 |    名称   |   网址   |   备注  |
 | :-------- | :------ | :------: |
+| 美团技术团队 | [tech.meituan.com](https://tech.meituan.com/) | - |
 | 有赞技术团队 | [tech.youzan.com](https://tech.youzan.com/) | - |
 | stream | [getstream.io/blog](https://getstream.io/blog/) | - |
 | golangbot | [golangbot.com](https://golangbot.com/) | #golang |

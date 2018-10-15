@@ -5,3 +5,13 @@ A language server *should* be a core part of each language, built and managed by
 ---
 
 Go team计划自己维护一个 language server protocol的原始实现 ，类似sourcegragh的go-langserver - [网页链接]](https://go-review.googlesource.com/c/tools/+/136676#message-11c783bc9a9f6adf6119bbb85c89510fda25abe9)
+
+---
+
+Language Server Protocol  https://microsoft.github.io/language-server-protocol/
+
+---
+
+sourcegragh 的实现：
+
+https://langserver.org/

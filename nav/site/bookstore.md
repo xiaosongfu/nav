@@ -3,11 +3,11 @@
 |     社区     |    出版社   |
 | :--------    | :------    |
 | [异步社区](https://epubit.com/)             | 人民邮电出版社 |
-| [图灵社区](http://www.ituring.com.cn/)      |  |
-| [博文视点](http://www.broadview.com.cn/)    |  |
-|            |                  |
-| [manning](https://www.manning.com/)         |  |
-| [packtpub](https://www.packtpub.com/)       |  |
+| [图灵社区](http://www.ituring.com.cn/)      | 图灵社区 |
+| [博文视点](http://www.broadview.com.cn/)    | 博文视点 |
+|       -                                    |    -    |
+| [manning](https://www.manning.com/)        | manning |
+| [packtpub](https://www.packtpub.com/)      | packtpub |
 
 ---
 
@@ -25,6 +25,8 @@ https://www.manning.com/books/kubernetes-in-action
 
 https://www.manning.com/books/dart-in-action  
 https://www.manning.com/books/flutter-in-action
+
+https://www.manning.com/books/swift-in-depth
 
 https://www.manning.com/books/microservices-in-action
 
