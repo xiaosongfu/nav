@@ -27,6 +27,8 @@ Github 中文翻译：[github.com/gopl-zh/gopl-zh.github.com](https://github.com
 * 豆瓣读书：[《Go程序设计语言》](https://book.douban.com/subject/27044219/)
 * 京东：[《Go程序设计语言》](https://item.jd.com/12187988.html) | [《Go程序设计语言（英文版）》](https://item.jd.com/11864836.html)
 
+---
+
 #### 《Go In Action》 
 
 ![]()  
@@ -64,6 +66,8 @@ Github 中文翻译：[github.com/gopl-zh/gopl-zh.github.com](https://github.com
 
 * 豆瓣读书：[《》]()
 * 京东：[《》]()
+
+---
 
 #### 《Go并发编程实战（第2版）》  
 

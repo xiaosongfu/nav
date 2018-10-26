@@ -16,6 +16,8 @@
 | [derekparker/delve](https://github.com/derekparker/delve) | Delve is a debugger for the Go programming language. | debug debugger |
 | [aarzilli/gdlv](https://github.com/aarzilli/gdlv) | debug |  |
 
+* https://github.com/google/gops Go 程序诊断分析工具(https://juejin.im/entry/5bc83735e51d4539701eacb1)
+
 ### 包管理
 
 https://github.com/GoogleCloudPlatform/govanityurls
@@ -118,7 +120,7 @@ https://github.com/google/gops
 * [filebrowser](https://github.com/filebrowser/filebrowser) =>  
 * [Cloudreve](https://github.com/HFO4/Cloudreve) =>支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)  
 * [piknik](https://github.com/jedisct1/piknik) => 通过网络实现复制粘贴  
-* [gobot](https://github.com/qianlnk/gobot) =>golang 实现的微信聊天机器人  
-https://github.com/filebrowser/filebrowser
-
-https://github.com/hunterlong/statup
+* [gobot](https://github.com/qianlnk/gobot) => golang 实现的微信聊天机器人  
+* https://github.com/filebrowser/filebrowser
+* https://github.com/hunterlong/statup
+* https://github.com/getfider/fider 收集和整理产品反馈

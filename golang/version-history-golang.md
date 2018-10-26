@@ -4,9 +4,9 @@
 
 > go2draft
 
-2018年8月28日，go2草案发布：https://blog.golang.org/go2draft
+* 2018年8月28日，go2草案发布：https://blog.golang.org/go2draft
 
-比Python还好用的Go语言要出2.0了，你想怎么设计？: https://zhuanlan.zhihu.com/p/43243467
+* 比Python还好用的Go语言要出2.0了，你想怎么设计？: https://zhuanlan.zhihu.com/p/43243467
 
 ---
 
