@@ -2,7 +2,7 @@ https://www.sketchapp.com/
 
 ---
 
-http://sketch.im/
+http://sketch.cm/
 http://www.sketchcn.com/
 http://sketchchina.com/
 
@@ -12,4 +12,6 @@ http://sketchchina.com/
 
 官方用户手册 https://www.sketchapp.com/docs/
 
-中文文档 http://www.sketchcn.com/sketch-chinese-user-manual.html
+Sketch 中文手册 http://www.sketchcn.com/sketch-chinese-user-manual.html
+
+Sketch 中文手册 http://sketch.cm/manual/

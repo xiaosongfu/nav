@@ -12,6 +12,6 @@
 | [中国电信天翼云](http://www.ctyun.cn/)     |  |
 | [新浪云](https://www.sinacloud.com/) |  |
 | [金山云](https://www.ksyun.com/) |  |
-|  |  |
+| - | - |
 | [azure.cn/zh-cn](https://www.azure.cn/zh-cn/) |  |
 | [amazonaws-china.com/cn](https://amazonaws-china.com/cn/) |  |

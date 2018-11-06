@@ -1,5 +1,9 @@
 ## 1. 语言基础
 
+`language` & `core libraries` 
+
+> 教程：
+* Dart学习笔记 ：http://www.cndartlang.com/special/dart-notes
 
 > 官网资料：
 * A Tour of the Dart Language  
