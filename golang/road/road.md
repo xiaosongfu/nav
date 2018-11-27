@@ -8,6 +8,7 @@
 
 * 《The Go Programming Language》
 * 《Go In Action》
+* 《Go Web 编程》
 
 #### 3. 微服务
 

@@ -26,3 +26,10 @@ https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/
 ---
 
 《C++面向wasm编程》开源！=> https://mp.weixin.qq.com/s/o4NIuc67eV3U_FGODT0ufA
+
+---
+
+这一天终于来了，有人开始尝试用 Go 语言写前端单页应用，然后编译成 WebAssembly。所有功能，包括前端组件和前端路由，都是用 Go 写的。看上去，网页编程即将不再是 JS 的专利了。 ==> https://tutorialedge.net/golang/writing-frontend-web-framework-webassembly-go/
+
+不安分的 Go 语言开始入侵 Web 前端领域了 https://juejin.im/post/5be10686e51d45053f0de84c
+ 
