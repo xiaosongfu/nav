@@ -4,8 +4,19 @@
 * 中文论坛：https://discuss.kotliner.cn/
 
 ---
+Gtihub
+
+* kotlinx.serialization ： https://github.com/Kotlin/kotlinx.serialization
+* kotlinx.coroutines : https://github.com/Kotlin/kotlinx.coroutines
+
+---
 
 ktor框架：https://ktor.kotlincn.net/
+
+---
+json 解析框架：
+* Moshi ： https://github.com/square/moshi
+* 官方的库 kotlinx.serialization ： https://github.com/Kotlin/kotlinx.serialization
 
 ---
 

@@ -1,0 +1,2 @@
+* [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) | Curated list of awesome things regarding WebAssembly (wasm) ecosystem. 
+* [chai2010/awesome-wasm-zh](https://github.com/chai2010/awesome-wasm-zh) | WebAssembly(wasm)资源精选（拒绝大杂烩） - 中文版

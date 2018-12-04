@@ -4,6 +4,8 @@
 
 初窥Go module : https://mp.weixin.qq.com/s/ris9hYqRMKMX-HCZMpNMkg
 
+Hello，Go module proxy : https://mp.weixin.qq.com/s?__biz=MzIyNzM0MDk0Mg==&mid=2247484137&idx=1&sn=9271810cf96cdeff61c4182247e8075b&chksm=e863e508df146c1e389870e67b4fac22f86a6f61ce0150d212df3f2cf6faad0a7e0fd3f5b6e3&mpshare=1&scene=1&srcid=1127LhQMlxBpKCiyBwqwzBNo&from=singlemessage&ascene=1&devicetype=android-26&version=2607033a&nettype=WIFI&abtest_cookie=BQABAAoACwANABIAFAAFACOXHgBYmR4AiZkeAJmZHgChmR4AAAA%3D&lang=zh_CN&pass_ticket=3%2BO9Ia8YpFKrTHH475nTAmG21i4aoqLu%2FPGztqpPYwoFG2z33HpMteXuznwq211v&wx_header=1
+
 Golang modules 初探 ：https://gocn.vip/article/957
 
 Go 语言的 Modules 系统介绍： https://studygolang.com/articles/14389

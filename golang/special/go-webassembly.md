@@ -1,7 +1,17 @@
 https://webassembly.org/
 
+https://developer.mozilla.org/zh-CN/docs/WebAssembly
+
 ---
 
+https://webassembly.github.io/spec/
+
+为了支持嵌入 WebAssembly 到不同的环境，它的规范被分到不同的层，并在单独的文档里面规定。
+
+* Core specification：核心规范
+* Embedder specifications：嵌入器规范
+
+---
 
 
 WASM Hackers : Go1.11和WebAssembly : https://mp.weixin.qq.com/s/jqISsdQ9tDzy9Zg6g6u5xw

@@ -1,3 +1,14 @@
+从点滴基础探究Kotlin的独特魅力 https://mp.weixin.qq.com/s/OqGVAKhLf8Fp7nq1YKzsYQ
+
+什么？你还不会用Kotlin？快上车！  https://mp.weixin.qq.com/s/3mS29vPWH6SCKJGNgg0GGw
+
+带你领略Kotlin的精髓  https://mp.weixin.qq.com/s/lGC-GrKXgGyyCOx-aW6v1Q
+
+不会用kotlin？这篇看完不懂，我跪搓衣板  https://mp.weixin.qq.com/s/3QRWI0ZNb5wLY2J8kA6Etg
+
+
+---
+
 * [Kotlin 京东业务实战 | 强大又简洁的 JVM 语言](https://mp.weixin.qq.com/s/LpDze_q_iq_hLFb92fpwdg)
 
 
