@@ -12,5 +12,7 @@ https://www.dartlang.org/guides/language/language-tour
 https://www.dartlang.org/guides/language/effective-dart
 * A Tour of the Dart Libraries  
 https://www.dartlang.org/guides/libraries/library-tour
+* Dart Language Specification
+https://www.dartlang.org/guides/language/spec
 
 ## 2. 进阶

@@ -6,6 +6,8 @@ iOS-Weekly - [iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly/tree/mast
 
 Hacker News - [Hacker News](https://news.ycombinator.com/)  
 
+mobile hackers - [https://mobilehackers.io/](https://mobilehackers.io/)
+
 Github Explore - [github.com/explore](https://github.com/explore)
 
 Github Trending - [github.com/trending](https://github.com/trending)

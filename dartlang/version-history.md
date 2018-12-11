@@ -2,8 +2,12 @@
 [https://www.dartlang.org/tools/sdk/archive](https://www.dartlang.org/tools/sdk/archive)  
 [https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md](https://github.com/dart-lang/sdk/blob/master/CHANGELOG.md)
 
-## 2018 年
+---
 
+## 2018 年
+* 2.1.0 - 2018-12-05
+  - [Dart 2.1 is now available, with improved performance and usability](https://medium.com/dartlang/announcing-dart-2-1-improved-performance-usability-9f55fca6f31a)
+  
 * 2.0.0 - 2018-08-08  
   - [Announcing Dart 2: Stable and the Dart Web Platform - 2018/08/08](https://medium.com/dartlang/dart-2-stable-and-the-dart-web-platform-3775d5f8eac7)  
   - [Announcing Dart 2: Optimized for Client-Side Development - 2018/02/23](https://medium.com/dartlang/announcing-dart-2-80ba01f43b6)  

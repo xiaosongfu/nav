@@ -6,3 +6,9 @@
 
 * 文章 @ zhihu：[演讲」使用 Flutter 快速构建美观又高性能的移动应用](https://zhuanlan.zhihu.com/p/39737086)
 * 视频 @ bilibili：[使用 Flutter 快速构建美观又高性能的移动应用](https://www.bilibili.com/video/av27857568/)
+
+> Flutter by Google
+
+* 播放列表：https://www.youtube.com/playlist?list=PLOU2XLYxmsIJ7dsVN4iRuA7BT8XHzGtCr
+
+* 其中的第一个视频：Introducing Flutter：https://www.youtube.com/watch?v=fq4N0hgOWzU
