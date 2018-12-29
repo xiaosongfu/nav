@@ -63,3 +63,8 @@ https://github.com/golang/go/wiki/Modules
 ##### 2. goproxy.io
 
 * goproxy.io for Go modules : https://mp.weixin.qq.com/s/COethtOaiygsYev-kkCc4A
+
+##### 3.thumbai
+
+https://github.com/thumbai/thumbai
+

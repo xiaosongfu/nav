@@ -1,34 +1,40 @@
 > 官网  
 
-golang 官网 - [golang.org](https://golang.org/)  
-golang 国内官网 - [golang.google.cn](https://golang.google.cn/)  
-go-zh - [go-zh.org](https://go-zh.org/)  
+* golang 官网 - [golang.org](https://golang.org/)  
+* golang 国内官网 - [golang.google.cn](https://golang.google.cn/)  
+* go-zh 中文 - [go-zh.org](https://go-zh.org/)  
 
-> godoc  
+> Documents  
 
-https://golang.org/doc/  
-https://go-zh.org/doc/
+* https://golang.org/doc/  
+* https://go-zh.org/doc/
 
-> gopkg
+> Packages
 
-https://golang.org/pkg/  
-https://go-zh.org/pkg/
+* https://golang.org/pkg/  
+* https://go-zh.org/pkg/
 
-godoc 官网 - [godoc.org](https://godoc.org/)  
-gowalker.org - [gowalker.org](https://gowalker.org/) ==> 一个可以在线生成并浏览 Go 项目 API 文档的 Web 服务器，目前已支持包括 GitHub 等代码托管平台。   
-Go 标准库中文文档 - [cngolib.com](http://cngolib.com/)
+---
 
-https://godoc.ml/  
-https://gopm.io/  
-http://godoc.studygolang.com/
+> godoc
 
+* godoc 官网 - [godoc.org](https://godoc.org/)  
+* gowalker.org - [gowalker.org](https://gowalker.org/) ==> 一个可以在线生成并浏览 Go 项目 API 文档的 Web 服务器，目前已支持包括 GitHub 等代码托管平台。   
+* Go 标准库中文文档 - [cngolib.com](http://cngolib.com/)
+* https://godoc.ml/  
+* https://gopm.io/  
+* http://godoc.studygolang.com/
+
+---
 
 > golang 中文社区  
 
-gocn.io - [gocn.io](https://gocn.io/)  
-studygolang.com - [studygolang.com](https://studygolang.com/)  
-golangtc.com - [golangtc.com](https://golangtc.com/)  
-golang123.com - [golang123.com](https://www.golang123.com/)
+* gocn.io - [gocn.io](https://gocn.io/)  
+* studygolang.com - [studygolang.com](https://studygolang.com/)  
+* golangtc.com - [golangtc.com](https://golangtc.com/)  
+* golang123.com - [golang123.com](https://www.golang123.com/)
+
+---
 
 > 其他  
 
@@ -44,6 +50,8 @@ Becoming a Go Contributor https://kev.inburke.com/slides/becoming-go-contributor
 The Top Books For Learning Golang
 https://tutorialedge.net/golang/top-books-for-learning-golang/
 
+---
+
 > 服务器框架
 
 * gin
@@ -56,6 +64,8 @@ https://iris-go.com/
 
 * Go Frame
 http://gf.johng.cn/index
+
+---
 
 > gorillatoolkit 官网 - [gorillatoolkit.org](http://www.gorillatoolkit.org/) ==> 提供了很多 go 类库   
 
