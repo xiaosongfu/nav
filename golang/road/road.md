@@ -10,6 +10,9 @@
 * Effective Go：https://golang.google.cn/doc/effective_go.html
 * The Go Programming Language Specification：https://golang.google.cn/ref/spec
 
+> Effective Go
+* 中英双语版 https://legacy.gitbook.com/book/bingohuang/effective-go-zh-en/details
+* https://go-zh.org/doc/effective_go.html
 
 #### 2. 进阶
 

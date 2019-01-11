@@ -11,6 +11,10 @@
 
 ---
 
+https://greenteapress.com/
+
+---
+
 https://www.manning.com/books/get-programming-with-go  
 https://www.manning.com/books/go-web-programming  
 

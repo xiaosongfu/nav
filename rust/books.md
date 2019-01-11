@@ -1,9 +1,10 @@
 ### 1 纸质书
 
-
-深入浅出Rust
-
+1.《深入浅出Rust》
 https://item.jd.com/31808606183.html
+
+2.《Rust编程之道》
+https://item.jd.com/12479415.html
 
 ### 2 电子书
 

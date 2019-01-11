@@ -13,22 +13,25 @@ Google 提供的镜像站点 dartpad.cn
 | [api.dartlang.org](https://api.dartlang.org) | API reference |
 | [dartpad.dartlang.org](https://dartpad.dartlang.org) | DartPad |
 | [pub.dartlang.org](https://pub.dartlang.org/) | Pub packages |
+| [events.dartlang.org](https://events.dartlang.org) | Events |
 
 > pub
 
-Dart packages - [pub.dartlang.org](https://pub.dartlang.org/)  
-Dart packages - [pub.flutter-io.cn](https://pub.flutter-io.cn/)  
+https://pub.dartlang.org/
+https://pub.flutter-io.cn/
 
 > api
 
-api.dartlang.org <--> docs.flutter.io
-
+Dart API reference： api.dartlang.org
+Flutter API reference.： docs.flutter.io
 
 > doc
 
-http://www.dartdocs.org/
+http://www.dartdocs.org/ --> 跳转到： https://pub.dartlang.org/
 
 ---
+
+Dart Markdown Live Editor：https://dart-lang.github.io/markdown/
 
 ## Dartlang 中文资源
 

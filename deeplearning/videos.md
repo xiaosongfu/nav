@@ -1,0 +1,1 @@
+* 资源 | 斯坦福最新NLP课程上线，选择PyTorch放弃TensorFlow https://mp.weixin.qq.com/s/F2KREGKBTAjOa-ubzFZOEw

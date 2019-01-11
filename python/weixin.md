@@ -1,0 +1,1 @@
+* [学Python前请你先看看这个文章！](https://mp.weixin.qq.com/s/tAu6kPvvkVBJ1dciQ_FvGg)
