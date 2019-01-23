@@ -4,19 +4,9 @@ kubernetes 国内官网 - [kubernetes.cn](https://kubernetes.cn/)
 
 ---
 
-https://helm.sh/
-
-https://docs.helm.sh/
-
-https://github.com/helm/helm
-
----
-
-Minikube
-
+## minikube
 
 https://github.com/kubernetes/minikube
-
 
 1. 安装：Install Minikube --- https://kubernetes.cn/docs/tasks/tools/install-minikube/
 2. 使用：Running Kubernetes Locally via Minikube --- https://kubernetes.cn/docs/setup/minikube/
@@ -24,4 +14,10 @@ https://github.com/kubernetes/minikube
 
 ---
 
-kubeadm
+## kubeadm
+
+---
+
+https://kubeapps.com/
+
+Kubeapps是一个基于Web的UI，用于在Kubernetes集群中部署和管理应用程序

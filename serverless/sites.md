@@ -2,26 +2,7 @@ https://github.com/anaibol/awesome-serverless/
 
 ---
 
-
 https://serverless.io
-
-----
-
-https://serverless.com/  
-https://github.com/serverless
-
-
----
-
-# kubeless
-https://kubeless.io/
-
-https://github.com/kubeless
-
----
-
-# knative
-https://github.com/knative
 
 ----
 
@@ -42,4 +23,11 @@ https://github.com/fnproject/fn
 
 there are now five FaaS runtimes
 
-`Google’s Knative` `Alex Ellis and OpenFaaS` `Oracle and the Fn Project` `Platform 9’s Fission` `Bitnami’s Kubeless` `IBM and Apache’s OpenWhisk`
+* `Google’s Knative`
+* `Alex Ellis and OpenFaaS`
+* `Oracle and the Fn Project`
+* `Platform 9’s Fission`
+* `Bitnami’s Kubeless`
+* `IBM and Apache’s OpenWhisk`
+
+---
