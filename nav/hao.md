@@ -124,6 +124,8 @@ larabbs - [larabbs](https://github.com/summerblue/larabbs)
 
 清华大学开源软件镜像站 - [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn/)  
 
+http://mirror.bit.edu.cn/web/
+
 ---
 
 > ios

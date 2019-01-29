@@ -4,6 +4,25 @@
 * golang 国内官网 - [golang.google.cn](https://golang.google.cn/)  
 * go-zh 中文 - [go-zh.org](https://go-zh.org/)  
 
+> 子域名
+
+* https://play.golang.org/
+* https://tour.golang.org/
+* https://blog.golang.org/
+
+---
+
+> A Tour of Go
+
+官网：https://tour.golang.org/list
+中文：https://go-tour-zh.appspot.com
+
+---
+
+https://go.googlesource.com/
+
+---
+
 > Documents  
 
 * https://golang.org/doc/  

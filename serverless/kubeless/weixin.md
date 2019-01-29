@@ -1,0 +1,1 @@
+* [当当网专家详述如何利用 K8S 构建自主可控的 FaaS 平台](https://mp.weixin.qq.com/s/5C84hsAzLxrfJCYrtXiEIg). ---> 详细讲解了 kubeless！！！

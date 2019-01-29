@@ -1,0 +1,1 @@
+[CNCF首个云原生存储项目——ROOK](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649696726&idx=2&sn=ab209272075bfda078aadf22483233b6&chksm=889316b5bfe49fa32cf721382b0b2335d67cdb5fae75a96c7166d219e4931b2d6bbfb777c506&scene=38#wechat_redirect)

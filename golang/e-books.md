@@ -32,6 +32,8 @@ https://golangcaff.com/docs/the-way-to-go
 > 简介
 
 > 在线阅读
+
+官网：https://www.openmymind.net/The-Little-Go-Book/
 https://github.com/karlseguin/the-little-go-book - 英文  
 https://github.com/songleo/the-little-go-book_ZH_CN - 中文  
 https://golangcaff.com/docs/the-little-go-book

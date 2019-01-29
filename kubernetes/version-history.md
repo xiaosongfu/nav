@@ -2,6 +2,10 @@
 
 ## 1.13 (x x, 201x)
 
+- [K8S 1.13 重磅发布|全面解读 20 个重大功能更新](https://mp.weixin.qq.com/s/OcRvX5zGn9xeHUMn7oRs3w)
+
+CoreDNS在v1.11中实现GA。在v1.13中，CoreDNS替换kube-dns成为Kubernetes的默认DNS服务器。CoreDNS是一个通用的、权威的DNS服务器，提供与Kubernetes向后兼容但可扩展的集成。
+
 * 1.13.2
 * 1.13.1
 * 1.13.0
