@@ -11,3 +11,7 @@ openstack最早由美国国家航空航天局NASA研发的Nova和Rackspace研发
 物理机我们一般称为宿主机（Host），宿主机上面的虚拟机称为客户机（Guest）。那么 Host 是如何将自己的硬件资源虚拟化，并提供给 Guest 使用的呢？
 
 这个主要是通过一个叫做 Hypervisor 的程序实现的。根据 Hypervisor 的实现方式和所处的位置，虚拟化又分为两种：1型虚拟化和2型虚拟化。
+
+---
+
+每个 OpenStack 组件在 MySQL 中有自己的数据库。
