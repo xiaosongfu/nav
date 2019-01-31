@@ -1,31 +1,40 @@
-Docker CE release notes
+# Docker CE release notes
 
-https://docs.docker.com/release-notes/docker-ce/
+> Release Notes: [https://docs.docker.com/engine/release-notes/](https://docs.docker.com/engine/release-notes/)
 
+### 18.09
+注意：18.09 中新增了版本对齐 - community engine 和 enterprise engine。新版本方案是 `YY.MM.x`，其中 x 是递增补丁版本。enterprise engine 是 community engine 的超集。它们将基于相同的代码库同时发布相同的 x 补丁版本。
 
-18.03.1-ce (2018-04-26)
-18.03.0-ce (2018-03-21)
+* 18.09.1 (2019-01-09)
+* 18.09.0 (2018-11-08)
+
+### 18.06
+* 18.06.1-ce (2018-08-21)
+* 18.06.0-ce (2018-07-18)
+
+### 18.03
+* 18.03.1-ce (2018-04-26)
+* 18.03.0-ce (2018-03-21)
+
 17.12.1-ce (2018-02-27)
 17.12.0-ce (2017-12-27)
+
 17.09.1-ce (2017-12-07)
 17.09.0-ce (2017-09-26)
+
 17.06.2-ce (2017-09-05)
 17.06.1-ce (2017-08-15)
 17.06.0-ce (2017-06-28)
+
 17.03.2-ce (2017-05-29)
 17.03.1-ce (2017-03-27)
 17.03.0-ce (2017-03-01)
 
 ---
 
----
+# Docker Engine release notes
 
-Docker Engine release notes
-
-
-https://docs.docker.com/release-notes/docker-engine/
-
-
+> Release Notes: [https://docs.docker.com/release-notes/docker-engine/](https://docs.docker.com/release-notes/docker-engine/)
 
 1.13.1 (2017-02-08)
 1.13.0 (2017-01-18)

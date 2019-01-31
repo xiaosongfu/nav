@@ -4,20 +4,9 @@ kubernetes 国内官网 - [kubernetes.cn](https://kubernetes.cn/)
 
 ---
 
-## minikube
+Kubernetes的网络中主要存在四种类型的通信：同一Pod内的容器间通信、各Pod彼此之间的通信、Pod与Service间的通信，以及集群外部的流量同Service之间的通信。
 
-https://github.com/kubernetes/minikube
-
-1. 安装：Install Minikube --- https://kubernetes.cn/docs/tasks/tools/install-minikube/
-2. 使用：Running Kubernetes Locally via Minikube --- https://kubernetes.cn/docs/setup/minikube/
-3. Tutorials：Hello Minikube --- https://kubernetes.cn/docs/tutorials/hello-minikube/
-
----
-
-## kubeadm
-
-
-
+Pod网络及其IP由Kubernetes的网络插件负责配置和管理，具体使用的网络地址可在管理配置网络插件时指定，如10.244.0.0/16网络。而Cluster网络和IP则是由Kubernetes集群负责配置和管理，如10.96.0.0/12网络。
 
 ---
 
