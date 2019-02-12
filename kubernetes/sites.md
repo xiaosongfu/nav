@@ -32,12 +32,32 @@ K8S Service有这么几种类型：ClusterIP，NodePort 和Load Balancer。
 使用LoadBalancer类型的Service？它又要求在特定的云服务上跑K8S。而且Service只提供L4负载均衡功能，而没有L7功能，一些高级的，L7的转发功能，比如：基于HTTP header，cookie，URL的转发就做不了。
 在K8S中，L7的转发功能，集群外访问Service，这些功能是专门交给Ingress的。
 
+NodePort Service的特点就是Kubernetes集群将为这个Service分配一个高位的随机端口，并在所有的集群节点上开启这个端口。通过集群中任何一个节点的IP地址加上Service被分配到的端口就可以访问Service后端的容器应用。
 
 K8S Service创建好了，那么如何使用，即如何进行服务发现呢？K8S提供了两种方式：环境变量和域名。
 * 环境变量即Kubelet为每个Pod注入所有Service的环境变量信息，这种方式的缺点是：容易环境变量洪泛，docker启动参数过长影响性能甚至直接导致容器启动失败。
 * 域名的方式是，假设Service（my-svc）在namespace（my-ns）中，暴露名为http的TCP端口，那么在K8S的DNS服务器会生成两种记录，分别是A记录：域名（my-svc.my-ns）到Cluster IP的映射和SRV记录，例如：_http._tcp.my-svc.my-ns到一个http端口号的映射。
 
 Kubernetes用于服务发现的DNS，经历了Sky-DNS,Kube-DNS和最新一代的CoreDNS，它采用更模块化，可扩展的框架构建。
+
+---
+
+摘自 《深入浅出 serverless》：
+
+```
+$ docker ps | awk '{print $2}'
+
+#获取Nginx服务的NodePort端口
+$ export nginx_port=$( kubectl -n openwhisk describe service nginx | grep https-api | grep NodePort| awk '{print $3}' | cut -d'/' -f1)
+#获取API Gateway服务的NodePort端口
+$ export api_port=$( kubectl -n openwhisk describe service apigateway | grep mgmt | grep NodePort| awk '{print $3}' | cut -d'/' -f1)
+#获取虚拟机的IP地址
+$ export host_ip=$( ip a show   eth0|grep global|cut -d ' ' -f 6|cut -d '/' -f 1)
+#创建ConfigMap对象
+$ kubectl -n openwhisk create configmap whisk.ingress \
+    --from-literal=api_host="$host_ip:$nginx_port" \
+    --from-literal=apigw_url="http://$host_ip:$api_port"
+```
 
 ---
 

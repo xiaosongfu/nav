@@ -1,11 +1,40 @@
 https://github.com/knative
 
+https://knative.dev
 
+https://cloud.google.com/knative/
+
+---
+
+Kubernetes-based platform to build, deploy, and manage modern serverless workloads
+基于Kubernetes的平台，用于构建，部署和管理现代无服务器工作负载
+
+---
+
+以下Knative组件可用：
+* build - 源到容器的构建编排
+* eventing - 管理和交付事件
+* serving - 请求驱动的计算，可以扩展到零
+
+> build
+
+> eventing
+
+> serving
+
+Knative Serving 以 Kubernetes 和 Istio 为基础，支持serverless applications and function 的部署和服务。Serving 很容易上手和扩展以支持高级方案。
+Knative Serving 项目提供了中间件原语，可以：
+* 快速部署无服务器容器
+* 自动放大和缩小到零
+* Istio 组件的路由和网络编程
+* 部署的代码和配置的时间点快照
+
+---
 
 ## CloudEvents
+
 https://cloudevents.io/
 https://github.com/cloudevents/spec
-
 
 ---
 

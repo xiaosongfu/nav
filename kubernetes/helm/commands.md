@@ -1,5 +1,5 @@
 
-#### Install Chart
+#### 1. 安装 Chart 命令示例 --> 从官方 stable 仓库安装
 
 To install the Airflow Chart into your Kubernetes cluster :
 
@@ -26,6 +26,16 @@ helm install stable/airflow --version 0.13.0
 ```
 
 参考：https://hub.helm.sh/charts/stable/airflow
+
+#### 2. 安装 Chart 命令示例 --> 从本地 tgz 压缩包安装
+
+```
+# 下载 openwhisk 压缩包并解压
+
+$ cd incubator-openwhisk-deploy-kube/helm
+
+$ helm install . --namepace=openwhisk --name=openwhisk
+```
 
 ---
 

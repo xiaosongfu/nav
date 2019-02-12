@@ -1,6 +1,6 @@
 ## 1. 有个印象
 
-看这篇文章：
+##### 1.1 看这篇文章：
 
 > Service Mesh实践之Istio初体验
 https://mp.weixin.qq.com/s/BZFo2AFkpDTBu-BLO5F-Eg
@@ -15,5 +15,11 @@ https://mp.weixin.qq.com/s/BZFo2AFkpDTBu-BLO5F-Eg
 ![](images/chx/bookinfo.png)
 
 > https://github.com/istio/istio/blob/master/samples/bookinfo/README.md
+
+##### 1.2 istio技术圈 微信公众号的文章
+
+* 我们一起学istio技术01: docker for mac安装istio https://mp.weixin.qq.com/s/RfkfhajgT0aCnJ53Vol0zQ
+* 
+
 
 ## 2. 入门

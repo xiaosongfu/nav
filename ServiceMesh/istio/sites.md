@@ -1,10 +1,15 @@
 https://istio.io/
 
+* https://istio.io/zh/
+* https://preliminary.istio.io/zh
+
 https://github.com/istio/istio
 
-citadel: 堡垒
-mixer: 混合器
-pilot: 飞行员
+---
+
+* citadel: 堡垒
+* mixer: 混合器
+* pilot: 飞行员
 
 --
 

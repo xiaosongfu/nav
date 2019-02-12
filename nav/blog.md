@@ -14,6 +14,10 @@
 * [Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)  
 * [Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)  
 
+`英文`
+
+* https://thenewstack.io
+* https://martinfowler.com
 
 ---
 
@@ -38,7 +42,7 @@
 
 ---
 
-> 技术团队博客
+> 技术团队博客-中文
 
 |    名称   |   网址   |   备注  |
 | :-------- | :------ | :------: |
@@ -46,3 +50,11 @@
 | 有赞技术团队 | [tech.youzan.com](https://tech.youzan.com/) | - |
 | stream | [getstream.io/blog](https://getstream.io/blog/) | - |
 | golangbot | [golangbot.com](https://golangbot.com/) | #golang |
+
+---
+
+> 技术团队博客-英文
+
+|    名称   |   网址   |   备注  |
+| :-------- | :------ | :------: |
+| x | x | - |
