@@ -16,8 +16,9 @@
 
 `英文`
 
-* https://thenewstack.io
-* https://martinfowler.com
+* https://thenewstack.io  --> kubernetes
+* https://martinfowler.com  --> microservices
+* https://www.ncameron.org/blog/  --> rust
 
 ---
 

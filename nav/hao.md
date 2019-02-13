@@ -128,9 +128,13 @@ larabbs - [larabbs](https://github.com/summerblue/larabbs)
 
 > mirrors 镜像站点
 
-清华大学开源软件镜像站 - [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn/)  
+* 清华大学开源软件镜像站 - [mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn/)  
 
-http://mirror.bit.edu.cn/web/
+* [mirror.bit.edu.cn](http://mirror.bit.edu.cn/web/)
+
+* 中国科学技术大学 Linux 用户协会 - [lug.ustc.edu.cn](https://lug.ustc.edu.cn/wiki/) || http://mirrors.ustc.edu.cn/
+
+* 上海交通大学 Linux 用户组 - [mirrors.sjtug.sjtu.edu.cn](https://mirrors.sjtug.sjtu.edu.cn)
 
 ---
 
