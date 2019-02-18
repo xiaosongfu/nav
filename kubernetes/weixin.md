@@ -1,3 +1,11 @@
+### star
+
+* [浅析从外部访问 Kubernetes 集群中应用的几种方式](https://mp.weixin.qq.com/s/jynmVN3xXnZrAxM_gN8ohQ)！！！！
+  重点文章，好好看！！！
+* []()
+* []()
+* []()
+
 ### 杂项
 
 * [50个免费的Kubernetes工具](https://mp.weixin.qq.com/s/RAHNFj2r5KGA8ZAMoB7u9w)  

@@ -1,8 +1,8 @@
-### 文章
-
 ##### 精选
 
 初窥Go module : https://mp.weixin.qq.com/s/ris9hYqRMKMX-HCZMpNMkg
+
+为 Go module 搭建私服：http://blog.cyeam.com/golang/2018/09/27/athens
 
 Hello，Go module proxy : https://mp.weixin.qq.com/s?__biz=MzIyNzM0MDk0Mg==&mid=2247484137&idx=1&sn=9271810cf96cdeff61c4182247e8075b&chksm=e863e508df146c1e389870e67b4fac22f86a6f61ce0150d212df3f2cf6faad0a7e0fd3f5b6e3&mpshare=1&scene=1&srcid=1127LhQMlxBpKCiyBwqwzBNo&from=singlemessage&ascene=1&devicetype=android-26&version=2607033a&nettype=WIFI&abtest_cookie=BQABAAoACwANABIAFAAFACOXHgBYmR4AiZkeAJmZHgChmR4AAAA%3D&lang=zh_CN&pass_ticket=3%2BO9Ia8YpFKrTHH475nTAmG21i4aoqLu%2FPGztqpPYwoFG2z33HpMteXuznwq211v&wx_header=1
 
@@ -45,26 +45,3 @@ https://talks.godoc.org/github.com/myitcv/talks/2018-08-15-glug-modules/main.sli
 
 Go 1.11 Modules官方Wiki   
 https://github.com/golang/go/wiki/Modules
-
-
----
----
----
----
-
-### go proxy
-
-##### 1. athens
-
-* https://github.com/gomods/athens
-* https://docs.gomods.io/
-* 参考文章：[为 Go module 搭建私服](http://blog.cyeam.com/golang/2018/09/27/athens)
-
-##### 2. goproxy.io
-
-* goproxy.io for Go modules : https://mp.weixin.qq.com/s/COethtOaiygsYev-kkCc4A
-
-##### 3.thumbai
-
-https://github.com/thumbai/thumbai
-

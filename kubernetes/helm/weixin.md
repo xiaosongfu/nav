@@ -1,5 +1,6 @@
 ## star
 
+* [Helm 入门指南](https://mp.weixin.qq.com/s/f-sHjfIGh2ESm0ovtY8DSw) !!!!
 * 介绍 Helm Hub：https://mp.weixin.qq.com/s/VEP2sVNNLeW3ea_D4jxvuA
 * 从基础到高级：Helm 指南：https://mp.weixin.qq.com/s/9YukXEg-W9H2jQYF_BzwLg
 

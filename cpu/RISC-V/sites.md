@@ -1,0 +1,1 @@
+RISC-V（英文读作“risk-five”），是一种全新的指令集架构。“V”包含两层意思，一是这是Berkeley 从 RISC I 开始设计的第五代指令集架构；二是它代表了变化（Variation）和向量（Vectors）。
