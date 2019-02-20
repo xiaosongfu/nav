@@ -4,6 +4,8 @@
 
 * Go 系列教程（Golang tutorial series）:https://studygolang.com/subject/2
 
+* 快学 Go 语言: https://mp.weixin.qq.com/s/OVEPFX6YRBgdq2M_WVns7Q
+
 > 官网教程
 * A Tour of Go：https://tour.golang.org/welcome/1 | https://tour.golang.org/list # 中文：	https://go-tour-zh.appspot.com
 * How to Write Go Code：https://golang.google.cn/doc/code.html

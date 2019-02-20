@@ -4,6 +4,9 @@
 
 ---
 
+* [Swift 5 新特性一览](https://mp.weixin.qq.com/s/3zEwQug4xrQSYa6FCJQh7g)
+* [Swift ABI 稳定后的几个问题](https://mp.weixin.qq.com/s/ihSoKWWMwhSAUWwM0nL8hw)
+
 ## Swift 4.2 (2018-09-17)
 * [Swift 4.2 Released!](https://swift.org/blog/swift-4-2-released/)
 
