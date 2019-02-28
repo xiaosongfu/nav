@@ -2,6 +2,27 @@ Release Notes: [https://flutter.io/docs/development/tools/sdk/archive](https://f
 
 ---
 
+##### Flutter 1.2
+
+* 2019-02-22 Flutter 1.2.2
+* 2019-02-15 Flutter 1.2.1
+* 2019-01-26 Flutter 1.2.0
+
+今天(2019-02-27)，在世界移动通信大会上，Flutter 团队宣布推出 Flutter 1.2，在过去一年中，Flutter 的发展势如破竹，超乎了开发团队的想象，而之所以选择这个时间发布 v 1.2，是因为去年此时，Flutter 第一个测试版本发布，所以，Flutter 1.2 作为第一个稳定的更新版本，选择今天发布很有意义。
+
+Flutter 1.2 将专注于以下几点：
+* 提升核心框架的稳定性、性能和质量；
+* 努力完善现有小部件（widgets）的视觉效果和功能；
+* 为 Flutter 开发者提供新的 Web 开发工具。
+
+Flutter 1.2 还附带了 Dart 2.2 SDK，这一更新为代码编译带来了显著的性能改进
+
+现在 Flutter 还支持 Android App Bundles，这是一种新的打包格式，有助于减少应用程序的大小并能启动 Android 应用程序的动态交付等功能。
+
+-> [Flutter 1.2发布，带来全新的Web开发工具！](https://mp.weixin.qq.com/s/gdKSJw05RPUSkLpeVlO6hg)
+
+---
+
 ## 2018 年
 
 * 2018 年 12 月 05 号，

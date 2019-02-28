@@ -1,0 +1,1 @@
+* Notes on the Go2 Generics Draft - http://jmoiron.net/blog/notes-on-the-go2-generics-draft

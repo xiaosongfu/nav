@@ -3,6 +3,12 @@ https://docs.drone.io/
 http://plugins.drone.io/
 https://discourse.drone.io/
 
+
+https://github.com/drone/drone-go
+https://github.com/drone/drone-cli
+https://github.com/drone/doc
+
+
 ---
 
 Drone 是一个持续交付平台，可帮助您的组织优化和自动化软件交付。

@@ -9,3 +9,6 @@ https://mp.weixin.qq.com/s/BZFo2AFkpDTBu-BLO5F-Eg
 
 使用 Istio 实现基于 Kubernetes 的微服务应用：https://mp.weixin.qq.com/s/D8qUgaGihTeCX8gAOtXJNQ
 
+
+* [Kubernetes 实战教学，手把手教您在 K8s 集群上部署 Istio Mesh（一）](https://mp.weixin.qq.com/s/jX_OEylXumTeVKoaGnpKYw)
+* [Kubernetes 实战教学，手把手教您在 K8s 集群上部署 Istio Mesh（二）](https://mp.weixin.qq.com/s/aph9_loXHkK1vBP2842zzg)

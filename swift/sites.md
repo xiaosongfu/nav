@@ -8,6 +8,8 @@ https://forums.swift.org/
 
 https://ci.swift.org/
 
+bugs.swift.org
+
 ##### github
 
 https://github.com/apple/swift

@@ -95,7 +95,7 @@ steps:
       GOOS: linux
       GOARCH: amd64
       CGO_ENABLED: 0
-# environment 可以是字符串或者字典
+# environment 可以是数组或者字典
 
 
 

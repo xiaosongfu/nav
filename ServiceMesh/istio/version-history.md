@@ -1,7 +1,9 @@
-https://github.com/istio/istio/releases
+> Release Notes: [https://github.com/istio/istio/](https://github.com/istio/istio/releases)
 
+---
 
 ## 1.0
+
 * 1.1.0 (201x)
 * 1.0.5 (2018/12/8)
 * 1.0.4 (2018/11/22)

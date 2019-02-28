@@ -1,5 +1,7 @@
 ##### 精选
 
+Golang Module学习使用 ：https://mp.weixin.qq.com/s/aA21TO16GPQ7N7nRPt7Dvw
+
 初窥Go module : https://mp.weixin.qq.com/s/ris9hYqRMKMX-HCZMpNMkg
 
 为 Go module 搭建私服：http://blog.cyeam.com/golang/2018/09/27/athens

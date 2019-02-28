@@ -2,11 +2,14 @@
 
 ---
 
-> go2draft
+## go1.12 
 
-* 2018年8月28日，go2草案发布：https://blog.golang.org/go2draft
+* go1.12 (released 2019/02/25)
 
-* 比Python还好用的Go语言要出2.0了，你想怎么设计？: https://zhuanlan.zhihu.com/p/43243467
+`美国当地时间2019年2月25日，Go 开发团队宣布推出 Go 1.12 正式版。`
+
+-> [Go 1.12 is released](https://blog.golang.org/go1.12)  
+-> [Go 1.12 Release Notes](https://golang.google.cn/doc/go1.12)
 
 ---
 
@@ -23,16 +26,16 @@
 
 `美国当地时间8月24日，Go 开发团队宣布推出 Go 1.11 正式版。`
 
-->[Go 1.11 is released](https://blog.golang.org/go1.11)  
-->[Go 1.11 Release Notes](https://golang.org/doc/go1.11)  
+-> [Go 1.11 is released](https://blog.golang.org/go1.11)             
+-> [Go 1.11 Release Notes](https://golang.org/doc/go1.11)  
 
-->[Go 1.11版本发布 - Go中国](https://mp.weixin.qq.com/s/meM3mZfdSvCx9IlFHDAgow)  
-->[Go 1.11正式发布：对 Modules 的支持 - Go语言中文网](https://mp.weixin.qq.com/s/kBqMUiZAJ_akue_EaIlVXA)  
-->[Go 1.11 正式发布：添加对模块 "modules" 的初步支持](https://www.oschina.net/news/99309/go-1-11-released)  
+-> [Go 1.11版本发布 - Go中国](https://mp.weixin.qq.com/s/meM3mZfdSvCx9IlFHDAgow)  
+-> [Go 1.11正式发布：对 Modules 的支持 - Go语言中文网](https://mp.weixin.qq.com/s/kBqMUiZAJ_akue_EaIlVXA)  
+-> [Go 1.11 正式发布：添加对模块 "modules" 的初步支持](https://www.oschina.net/news/99309/go-1-11-released)  
 
-->[Go 1.11 & Beyond by Brad Fitzpatrick](https://docs.google.com/presentation/d/1EwuJhEHR5Trr2aXBPQajZ2Hcoh29tm_LQCpgfrCnuRk/edit#slide=id.g384b921a69_3_44)  
-->[What else is in Go 1.11?](https://talks.godoc.org/github.com/mvdan/talks/2018/go1.11.slide#1)  
-->[What are Go modules and how do I use them?](https://talks.godoc.org/github.com/myitcv/talks/2018-08-15-glug-modules/main.slide#1)  
+-> [Go 1.11 & Beyond by Brad Fitzpatrick](https://docs.google.com/presentation/d/1EwuJhEHR5Trr2aXBPQajZ2Hcoh29tm_LQCpgfrCnuRk/edit#slide=id.g384b921a69_3_44)  
+-> [What else is in Go 1.11?](https://talks.godoc.org/github.com/mvdan/talks/2018/go1.11.slide#1)  
+-> [What are Go modules and how do I use them?](https://talks.godoc.org/github.com/myitcv/talks/2018-08-15-glug-modules/main.slide#1)  
 
 ---
 
