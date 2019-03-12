@@ -1,0 +1,1 @@
+* [使用OperatorHub.io自动化群集上的操作](https://mp.weixin.qq.com/s/ae63We4c_xE8hNxVgRLsWg)

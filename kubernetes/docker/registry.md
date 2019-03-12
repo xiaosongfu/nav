@@ -1,12 +1,12 @@
 ## 官方
 
 docker.io
-
-registry.hub.docker.com
-
-## 国内
+docker-cn.io
 
 https://registry.docker-cn.com/
+https://registry.hub.docker.com
+
+## 国内
 
 http://registry.cn-hangzhou.aliyuncs.com/ 
 
@@ -15,6 +15,10 @@ http://registry.cn-hangzhou.aliyuncs.com/
 gcr.io
 k8s.gcr.io
 
-## qu
+## quay.io
 
-qu
+
+---
+
+https://hub.docker.com/r/prom/prometheus/
+https://quay.io/repository/prometheus/prometheus

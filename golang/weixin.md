@@ -37,6 +37,9 @@
 * []()
 * []()
 
+* https://ewanvalentine.io/running-microservices-locally/
+
+* Go 微服务实战汇总: https://gocn.vip/question/1999
 
 * [如何基于Golang设计一套微服务架构](https://mp.weixin.qq.com/s/kqtOLvbpQ3UOZ_kDXvH2Jg)
 * [在Go中构建微服务](https://mp.weixin.qq.com/s/x-sRtxtvMUXxdREMeYvsIw)

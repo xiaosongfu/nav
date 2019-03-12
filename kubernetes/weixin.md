@@ -22,8 +22,10 @@
 * [全视角了解基于容器的编排工具Kubernetes](https://mp.weixin.qq.com/s/XvCgEP77OpX2HCbsK_DlNw)  
 * [Kubernetes新手快速入门指南](https://mp.weixin.qq.com/s/lMyMZyskekmN5BWwqjFDsQ)  
 * [一分钟教你快速部署Kubernetes应用](https://mp.weixin.qq.com/s/93KbCPp98r-RMBecN-7OtA) 
-* []() 
-* []() 
+
+* [3 小时入门 Kubernetes，容器编排详细指南（上）](https://mp.weixin.qq.com/s/QHRmspqpxtJ38Vy4ubY9mA) 
+* [3 小时入门 Kubernetes，容器编排详细指南（下）](https://mp.weixin.qq.com/s/hRPxl7ZaihvaiHBxsMATYw) 
+
 * []() 
 * []() 
 * []() 

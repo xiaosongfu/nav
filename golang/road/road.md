@@ -26,6 +26,8 @@
 #### 3. 微服务
 
 * ewanvalentine 系列博客：https://ewanvalentine.io/microservices-in-golang-part-1/
+* https://ewanvalentine.io/running-microservices-locally/
+* Go 微服务实战汇总: https://gocn.vip/question/1999
 
 #### 4. Serverless
 

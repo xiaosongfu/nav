@@ -4,7 +4,7 @@
 
 > Google 工程师 Xiao Yu（于潇）在上个月成功举办的 2018 全球大前端技术大会（GMTC）中进行的 Keynote 演讲实录
 
-* 文章 @ zhihu：[演讲」使用 Flutter 快速构建美观又高性能的移动应用](https://zhuanlan.zhihu.com/p/39737086)
+* 文章 @ zhihu：[使用 Flutter 快速构建美观又高性能的移动应用](https://zhuanlan.zhihu.com/p/39737086)
 * 视频 @ bilibili：[使用 Flutter 快速构建美观又高性能的移动应用](https://www.bilibili.com/video/av27857568/)
 
 > Flutter by Google

@@ -4,11 +4,26 @@
 * golang 国内官网 - [golang.google.cn](https://golang.google.cn/)  
 * go-zh 中文 - [go-zh.org](https://go-zh.org/)  
 
-> 子域名
+**子路径**
 
-* https://play.golang.org/
-* https://tour.golang.org/
-* https://blog.golang.org/
+```
+https://golang.google.cn/dl/
+https://golang.google.cn/doc/
+https://golang.google.cn/pkg/
+https://golang.google.cn/project/
+https://golang.google.cn/help/
+
+https://golang.google.cn/src/
+```
+
+**子域名**
+
+```
+https://play.golang.org/
+https://tour.golang.org/
+https://blog.golang.org/
+https://build.golang.org/
+```
 
 ---
 
