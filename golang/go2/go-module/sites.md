@@ -1,20 +1,29 @@
-### go proxy
+* https://athens.azurefd.net
+* https://goproxy.io
+* https://gocenter.io
 
-##### 1. athens
+---
+
+## 1. athens
 
 * https://github.com/gomods/athens
 * https://docs.gomods.io/
-* 参考文章：[为 Go module 搭建私服](http://blog.cyeam.com/golang/2018/09/27/athens)
 
-##### 2. goproxy.io
+我们还运行了一个体验版本的 Athens,因此你什么都不需要安装也能开始。为此，你需要设置环境变量 GOPROXY="https://athens.azurefd.net".
 
+参考文章：[为 Go module 搭建私服](http://blog.cyeam.com/golang/2018/09/27/athens)
+
+## 2. goproxy.io
+
+* https://github.com/goproxyio/goproxy
+* https://goproxy.io/
 * goproxy.io for Go modules : https://mp.weixin.qq.com/s/COethtOaiygsYev-kkCc4A
 
-##### 3. thumbai
+## 3. thumbai
 
 https://github.com/thumbai/thumbai
 
-##### 4. GoCenter
+## 4. GoCenter
 
 2019年01月30日，JFrog 正式宣布 Gopher 世界的第一个中心式 immutable Modules 仓库服务正式运行！截至目前已经收录45k个modules。使用Go 1.11及以后版本的 Gopher 可以通过设置 `export GOPROXY=https://gocenter.io` 来使用该中心服务。
 
@@ -39,3 +48,5 @@ https://github.com/thumbai/thumbai
 * 设置 repository manager 来代理 GoCenter
 
 如果您使用的是诸如Artifactory或Athens之类的存储库管理器，则只需要在存储库管理器中指向GOPROXY，并确保将GoCenter作为远程存储库（Artifactory中的开箱即用）包含在内。有关解析不在GoCenter中的模块的说明，请参阅JFrog CLI文档。
+
+## 5. xx

@@ -9,7 +9,18 @@ https://cloud.google.com/knative/
 Kubernetes-based platform to build, deploy, and manage modern serverless workloads
 基于Kubernetes的平台，用于构建，部署和管理现代无服务器工作负载
 
+和标准化的 FaaS 不同（只运行特定标准的 Function 代码），knative 期望能够运行所有的 workload : traditional application、function、container。
+
+knative 建立在 kubernetes 和 istio 平台之上，使用 kubernetes 提供的容器管理能力（deployment、replicaset、和 pods等），以及 istio 提供的网络管理功能（ingress、LB、dynamic route等）。
+
+
+
 ---
+
+为了实现 serverless 应用的管理，knative 把整个系统分成了三个部分：
+* Build：构建系统，把用户定义的函数和应用 build 成容器镜像
+* Serving：服务系统，用来配置应用的路由、升级策略、自动扩缩容等功能
+* Eventing：事件系统，用来自动完成事件的绑定和触发
 
 以下Knative组件可用：
 * build - 源到容器的构建编排
@@ -39,7 +50,3 @@ https://github.com/cloudevents/spec
 ---
 
 knative 是谷歌开源的 serverless 架构方案，旨在提供一套简单易用的 serverless 方案，把 serverless 标准化。目前参与的公司主要是 Google、Pivotal、IBM、Red Hat，2018年7月24日对外发布，当前还处于快速发展的阶段。
-
-对于函数的运维，一般的 serverless 平台（包括 knative）都提供了 logging、metrics、tracing 三个方面的功能。默认情况下，knative 使用 EFK（Elasticsearch、Fluent、Kibana）来收集、查找和分析日志；使用 prometheus + grafana 来收集和索引、展示 metrics 数据；使用 jaeger 来进行调用关系的 tracing。
-
-针对 serverless 衍生出来的运维工具和平台还不够多，如何调试线上问题还没有看到非常好的解决方案。

@@ -4,7 +4,11 @@ https://github.com/anaibol/awesome-serverless/
 
 https://serverless.io
 
-----
+---
+
+https://www.open-lambda.org/
+
+---
 
 # OpenFaaS
 https://www.openfaas.com/  

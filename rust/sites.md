@@ -14,6 +14,12 @@ https://doc.rust-lang.org/ ！！！！ 重点关注
 https://blog.rust-lang.org/
 https://play.rust-lang.org/
 
+## cargo & crates
+
+https://crates.io/
+https://docs.rs/
+
+
 ## https://doc.rust-lang.org/
 
 > Book

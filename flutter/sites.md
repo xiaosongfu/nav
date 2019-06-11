@@ -1,9 +1,22 @@
 > Flutter
 
 https://flutter.dev/
+https://flutter.cn/
 
-Flutter 官网 - [flutter.io](https://flutter.io/) --> 会跳转到 flutter.dev  
-Flutter 国内官网 - [flutter-io.cn](https://flutter-io.cn/)  
+flutter.io--> 会跳转到 flutter.dev  
+flutter-io.cn
+
+---
+
+https://flutter.cn/docs
+
+---
+
+这两个是一样的！
+https://api.flutter.dev/
+https://docs.flutter.dev/
+
+---
 
 文档：https://flutter.io/docs  
 代码试验：https://flutter.io/docs/codelabs  
@@ -84,3 +97,15 @@ https://medium.com/flutter-community
 Each widget has a set of attributes (some mandatory, others optional) that describe composition (home, child, children), visual aspects (decoration, position, styling) and behavior(on click listener).
 
 每个小部件都有一组属性（一些是必需的，其他是可选的），用于描述组合（home，孩子，孩子），视觉方面（装饰，位置，样式）和行为（在点击监听器上）。
+
+---
+
+Flutter SDK 里有什么？
+
+* 高度优化的针对移动应用的 2D 渲染引擎，更具备出色的文字支持功能
+* 现代化的 react 风格框架
+* 适用于 Android 和 iOS 的丰富 Widget
+* 用于单元和集成测试的 API
+* 用于连接系统和第三方 SDK 的互操作及插件 API
+* 无界面 (headless) 测试运行器，用于在 Windows、Linux 和 Mac 上运行测试
+* 命令行工具，用于创建、构建、测试和编译应用

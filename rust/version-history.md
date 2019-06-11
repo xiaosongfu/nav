@@ -9,7 +9,9 @@ EDITION GUIDE - Rust版本指南 ：https://doc.rust-lang.org/edition-guide/inde
 Rust 的第一个正式版本号是 1.0，是2015年5月发布的。
 
 ## Rust Edition 2021
+
 ## Rust Edition 2018
+
 2018年将推出了 Rust 2018，标志着自 1.0（又名 Rust 2015）以来 Rust 的第一个主要新版本。
 
 2018 edition 将于2018年12月6日在Rust 1.31稳定降落。
@@ -17,13 +19,16 @@ Rust 的第一个正式版本号是 1.0，是2015年5月发布的。
 Rust 2018的主题是生产力。
 
 ## Rust Edition 2015
+
 Rust 2015的主题是“稳定性”。
 
 它从1.0版本开始，是“默认版本”。
 
 1.0，又名 Rust 2015
 
-Thinking of 1.0 as "Rust 2015",
+Thinking of 1.0 as "Rust 2015"
+
+Rust 的第一个正式版 1.0.0 是 2015年5月发布的。
 
 ---
 
@@ -42,3 +47,5 @@ Thinking of 1.0 as "Rust 2015",
 * Version 1.29.0 (2018-09-13)
 
 * Version 1.28.0 (2018-08-02)
+
+* Version 1.0.0 (2015-05)

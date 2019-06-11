@@ -7,6 +7,7 @@
 > 教程：
 * Dart学习笔记 ：http://www.cndartlang.com/special/dart-notes
 * learnxinyminutes.com  https://learnxinyminutes.com/docs/zh-cn/dart-cn/
+* http://jpryan.me/dartbyexample/
 
 > 其他
 * http://dart.lidian.info/ --> 2012年的，已经过时了

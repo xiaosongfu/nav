@@ -13,11 +13,11 @@ https://blog.csdn.net/tennysonsky/article/details/79103434
 
 ---
 
-#### Go零基础编程入门教程
+#### Go 零基础编程入门教程
 七牛云程序员小哥自制的 Go 零基础编程入门教程  
-https://space.bilibili.com/276273794/#/channel/detail?cid=30709
+https://space.bilibili.com/276273794/channel/detail?cid=30709
 
-#### Go得比谁都快
+#### Go 得比谁都快
 https://space.bilibili.com/16696495/channel/detail?cid=58096
 
 ---

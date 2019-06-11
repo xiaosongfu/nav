@@ -2,6 +2,10 @@ kubernetes 官网 - [kubernetes.io](https://kubernetes.io/)
 
 kubernetes 国内官网 - [kubernetes.cn](https://kubernetes.cn/)  
 
+https://k8s.devstats.cncf.io
+
+https://kubectl.docs.kubernetes.io/
+
 ---
 
 Kubernetes的网络中主要存在四种类型的通信：同一Pod内的容器间通信、各Pod彼此之间的通信、Pod与Service间的通信，以及集群外部的流量同Service之间的通信。

@@ -23,7 +23,7 @@ https://pub.flutter-io.cn/
 > api
 
 Dart API reference： api.dartlang.org
-Flutter API reference.： docs.flutter.io
+Flutter API reference.： api.flutter.io
 
 > doc
 
@@ -49,6 +49,16 @@ Dart 语言中文社区 - [cndartlang.com](http://www.cndartlang.com/)
 ## 其他
 
 [medium.com/dartlang](https://medium.com/dartlang)  
+
+https://github.com/dart-lang/intl
+https://github.com/dart-lang/tuple
+https://github.com/dart-lang/mockito
+https://github.com/dart-lang/yaml
+https://github.com/dart-lang/args
+https://github.com/dart-lang/markdown
+https://github.com/dart-lang/http
+https://github.com/dart-lang/protobuf
+https://github.com/dart-lang/logging
 
 ---
 

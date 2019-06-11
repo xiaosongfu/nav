@@ -6,7 +6,7 @@
 
 * [Swift 5 新特性一览](https://mp.weixin.qq.com/s/3zEwQug4xrQSYa6FCJQh7g)
 * [Swift ABI 稳定后的几个问题](https://mp.weixin.qq.com/s/ihSoKWWMwhSAUWwM0nL8hw)
-
+* [Swift ABI 稳定对我们到底意味着什么](https://onevcat.com/2019/02/swift-abi/)
 ## Swift 5
 
 * 5.1

@@ -6,9 +6,13 @@ https://mp.weixin.qq.com/s/BZFo2AFkpDTBu-BLO5F-Eg
 我们一起学istio技术01: docker for mac安装istio https://mp.weixin.qq.com/s/RfkfhajgT0aCnJ53Vol0zQ
 这是一个系列文章，有几篇，讲解了部署 bookinfo 例子，并实现 istio 的各种功能，如动态路由，故障注入等等，推荐阅读！！！
 
+---
 
 使用 Istio 实现基于 Kubernetes 的微服务应用：https://mp.weixin.qq.com/s/D8qUgaGihTeCX8gAOtXJNQ
 
+在Play with Kubernetes平台上以测试驱动的方式部署Istio：https://mp.weixin.qq.com/s/_4cbG5XK0NmUoqL1JvK5Yg
+
+---
 
 * [Kubernetes 实战教学，手把手教您在 K8s 集群上部署 Istio Mesh（一）](https://mp.weixin.qq.com/s/jX_OEylXumTeVKoaGnpKYw)
 * [Kubernetes 实战教学，手把手教您在 K8s 集群上部署 Istio Mesh（二）](https://mp.weixin.qq.com/s/aph9_loXHkK1vBP2842zzg)
