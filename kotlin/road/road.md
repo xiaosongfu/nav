@@ -6,7 +6,7 @@
 
 GitChat 达人课：
 * xxxx
- 
+
 教程：
 * [31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s/1mp5F4A-pqkaRknY6kAKzA)
 
@@ -16,5 +16,5 @@ GitChat 达人课：
 * 《Kotlin In Action》
 
 视频
-* [Kotlin Bootcamp for Programmers](https://classroom.udacity.com/courses/ud9011）
-* [Kotlin Bootcamp for Programmers](https://classroom.udacity.com/courses/ud888）
+* [Kotlin Bootcamp for Programmers](https://cn.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011)
+* [Developing Android Apps with Kotlin](https://cn.udacity.com/course/developing-android-apps-with-kotlin--ud9012)

@@ -2,6 +2,7 @@
 
 ##### 语言
 
+* Python - 100天从新手到大师：https://github.com/jackfrued/Python-100-Days
 * 《Python 简明教程》
     短小精湛、久负盛名的 Python 入门教程，英文原名《A Byte of Python》。
     https://pythoncaff.com/docs/byte-of-python/

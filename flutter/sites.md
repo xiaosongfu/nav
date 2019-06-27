@@ -1,9 +1,9 @@
 > Flutter
 
+https://flutter.io--> 会跳转到 flutter.dev
 https://flutter.dev/
-https://flutter.cn/
+https://flutter.cn/ -->  中文汉化项目组：https://github.com/cfug/flutter.cn
 
-flutter.io--> 会跳转到 flutter.dev  
 flutter-io.cn
 
 ---

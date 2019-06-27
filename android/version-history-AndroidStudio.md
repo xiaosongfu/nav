@@ -5,6 +5,10 @@
 
 ---
 
+## v3.4
+* 3.4.0
+* 3.4.1(May 2019)
+
 ## v3.3
 
 [Android Studio 3.3 稳定版，重磅发布！](https://mp.weixin.qq.com/s/JmzOOiCf2Ae7Pibr-3pfvg)
@@ -12,7 +16,9 @@
 Android Studio 3.3 包含 IntelliJ 2018.2.2 版本。
 Android Studio 3.3 捆绑了 Kotlin 1.3.11，包含对 Kotlin 协程 (Coroutines) 与合约 (Contracts) 的支持，并且 IDE 支持推荐的 Kotlin 编码风格。
 
-* 3.3 ()
+* 3.3.0 (January 2019)
+* 3.3.1 (February 2019)
+* 3.3.2 (March 2019)
 
 ## v3.1
 * 3.1.4 (August 2018)
