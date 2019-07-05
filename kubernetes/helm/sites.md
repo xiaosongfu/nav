@@ -6,14 +6,14 @@ https://github.com/helm/helm
 
 ---
 
+Host your own Helm Chart Repository https://chartmuseum.com
+
 * https://github.com/helm/chartmuseum
 * https://chartmuseum.com/
 * https://chartmuseum.com/docs/
 * https://github.com/chartmuseum/ui  ChartMuseum frontend UI
 
 Helm Chart Repository 可以通过多种方式托管，包括GitHub或Gitlab页面，对象存储，使用 Chartmuseum 和通过服务提供商。
-
-Host your own Helm Chart Repository https://chartmuseum.com
 
 ChartMuseum is an open-source **Helm Chart Repository** server written in Go (Golang), with support for cloud storage backends, including Google Cloud Storage, Amazon S3, Microsoft Azure Blob Storage, Alibaba Cloud OSS Storage, Openstack Object Storage, Oracle Cloud Infrastructure Object Storage, and Baidu Cloud BOS Storage.
 
@@ -49,3 +49,18 @@ Helm帮助您管理Kubernetes应用程序。Helm Charts（Helm的软件包）可
 Helm的设计，考虑了会有许多分布式存储库。与Homebrew Taps和Debian APT存储库一样，Helm可以添加，和使用许多存储库。虽然，Helm的stable和incubator存储库，从一开始就是前沿和中心，但我们并不打算将这些作为唯一的公共存储库。
 
 Helm Hub 由 Monocular 提供支持，随着 Helm Hub 的复杂性增加，Monocular 将增强其处理多存储库和 Chart 的能力。
+
+### 3. AppHub
+
+阿里在 KubeConf2019 China 上发布了 AppHub。
+
+“开放云原生应用中心” (Cloud Native App Hub，简称 AppHub) 服务，它的主页是：https://developer.aliyun.com/hub 
+
+AppHub 是一个托管在国内公有云上、全公益性的 Helm Hub “中国站”，它的后端由阿里云容器平台团队的三位工程师利用 20% 时间开发完成。
+
+而这个站点的一个重要职责，就是把所有 Helm 官方 Hub 托管的应用自动同步到国内；同时，自动将 Charts 文件中的 gcr.io 等所有有网络访问问题的 URL 替换成为稳定的国内镜像 URL。
+
+这样，国内的开发者也可以自由的使用 helm install 来安装应用了！
+
+> 摘自：初探云原生应用管理（一）: Helm 与 App Hub：
+https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247485421&idx=1&sn=2b7e15c25e2487dfdd1e553e1b1b2ca5&chksm=fae50c22cd92853492dee713617619acc9981fb6be58da42d66cf69e98e4903dc73d948b76e7&scene=4&subscene=126&ascene=0&devicetype=android-27&version=2700043c&nettype=ctnet&abtest_cookie=BQABAAoACwASABMAFQAFACOXHgBWmR4AwJkeAPKZHgAJmh4AAAA%3D&lang=zh_CN&pass_ticket=MXB6L8yYrVSdZal9nlNaDnVpupIOeTMHg9fegHy8FVxVkVEnqNLYN0jYlfH6TPFE&wx_header=1

@@ -1,5 +1,7 @@
 > Release Notes: [https://github.com/istio/istio/](https://github.com/istio/istio/releases)
 
+> [Release Notes](https://istio.io/about/notes/)
+
 ---
 
 ## 1.0

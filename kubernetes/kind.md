@@ -1,0 +1,1 @@
+Kind：用于测试 Kubernetes 的本地集群: https://mp.weixin.qq.com/s/iE277g9f9VqlnAVQZI-dAw
