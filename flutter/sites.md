@@ -2,13 +2,13 @@
 
 https://flutter.io--> 会跳转到 flutter.dev
 https://flutter.dev/
-https://flutter.cn/ -->  中文汉化项目组：https://github.com/cfug/flutter.cn
 
-flutter-io.cn
 
----
+https://debug.flutter.cn/ --> 国内的 flutter.dev
+https://flutter.cn/ --> 会跳转到 https://flutter-io.cn/，中文汉化项目组：https://github.com/cfug/flutter.cn --> 
 
-https://flutter.cn/docs
+
+https://flutter-io.cn/
 
 ---
 
@@ -91,6 +91,7 @@ https://medium.com/flutter-community
 每日浏览网站：
 
 * https://itsallwidgets.com/ ：An open list of apps built with Flutter
+* flutterx.com
 
 ---
 

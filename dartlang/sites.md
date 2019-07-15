@@ -1,9 +1,14 @@
 ## Dartlang 官方资源
 
-Dartlang 官网 - [dartlang.org](https://www.dartlang.org/)  
-Dartlang 中文官网 - [dartdoc.cn](http://www.dartdoc.cn/)
+https://www.dartlang.org/
 
-Google 提供的镜像站点 dartpad.cn
+
+https://www.dartdoc.cn/ --> 中文汉化项目组：https://github.com/cfug/dartlang-cn
+
+
+Google 提供的镜像站点: dartpad.cn
+
+---
 
 > 子域名
 
