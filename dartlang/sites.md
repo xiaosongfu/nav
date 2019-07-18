@@ -1,12 +1,27 @@
 ## Dartlang 官方资源
 
-https://www.dartlang.org/
-
+https://www.dartlang.org/ --> 跳转到 https://dart.dev/
 
 https://www.dartdoc.cn/ --> 中文汉化项目组：https://github.com/cfug/dartlang-cn
 
+2019-05-09 发布了2.3.0，同时发布了两个新的站点：
+* https://dart.dev/
+* https://pub.dev/
 
-Google 提供的镜像站点: dartpad.cn
+## pub
+
+https://pub.dartlang.org/ --> 跳转到 https://pub.dev/
+https://pub.flutter-io.cn/
+
+https://pub.dev/
+
+## dartpad
+
+https://dartpad.dartlang.org
+
+https://dartpad.dev/
+
+https://dartpad.cn/ --> Google 提供的镜像站点
 
 ---
 
@@ -19,11 +34,6 @@ Google 提供的镜像站点: dartpad.cn
 | [dartpad.dartlang.org](https://dartpad.dartlang.org) | DartPad |
 | [pub.dartlang.org](https://pub.dartlang.org/) | Pub packages |
 | [events.dartlang.org](https://events.dartlang.org) | Events |
-
-> pub
-
-https://pub.dartlang.org/
-https://pub.flutter-io.cn/
 
 > api
 

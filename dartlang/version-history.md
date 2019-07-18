@@ -4,6 +4,14 @@
 
 ---
 
+## 2.4.0
+* 2.4.0 - 2019-06-27
+
+## 2.3.0
+* 2.3.0 - 2019-05-09
+    * [Announcing Dart 2.3: Optimized for building user interfaces](https://medium.com/dartlang/announcing-dart-2-3-optimized-for-building-user-interfaces-e84919ca1dff)
+    * 发布了两个新的站点：https://dart.dev/ https://pub.dev/
+
 ## 2.2.0
 * 2.2.0 - 2019-02-26
     * [Announcing Dart 2.2: Faster native code, support for set literals](https://medium.com/dartlang/announcing-dart-2-2-faster-native-code-support-for-set-literals-7e2ab19cc86d)

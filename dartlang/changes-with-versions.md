@@ -1,4 +1,10 @@
-# Dart 2
+## Dart 2.4
+
+发布了两个新的站点：
+* https://dart.dev/
+* https://pub.dev/
+
+## Dart 2.0
 
 [Dart 2](https://www.dartlang.org/dart-2)
 
@@ -12,7 +18,3 @@
 
 * 提供了新的构建系统，web 开发用到的工具被移到了该构建系统中，如：pub 不再支持 `pub build`、`pub serve` 命令，改为使用 `webdev build` 和 `webdev serve`。
 * Dartium 不再支持，请使用 dartdevc 和 Chrome 替代。
-
----
-
-
