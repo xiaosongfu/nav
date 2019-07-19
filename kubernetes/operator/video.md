@@ -1,0 +1,1 @@
+K8s Operator 第二人：Operator 的前生今世与云原生应用管理：https://developer.aliyun.com/live/1270
