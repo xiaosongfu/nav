@@ -12,9 +12,8 @@ https://flutter-io.cn/
 
 ---
 
-这两个是一样的！
 https://api.flutter.dev/
-https://docs.flutter.dev/
+https://docs.flutter.dev/ --> 会跳转到 https://api.flutter.dev/
 
 ---
 
