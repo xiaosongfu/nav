@@ -3,7 +3,7 @@
 - https://mp.weixin.qq.com/s/rhDO70UNxdWzw-ILSn2lsA
 - https://classroom.udacity.com/courses/ud9011
 
-### Kotlin Bootcamp for Programmers
+### Kotlin for Android Developers
 
 - https://classroom.udacity.com/courses/ud888
 

@@ -10,6 +10,14 @@ GitChat 达人课：
 教程：
 * [31 天，从浅到深轻松学习 Kotlin](https://mp.weixin.qq.com/s/1mp5F4A-pqkaRknY6kAKzA)
 
+视频：
+* Kotlin从入门到『放弃』系列 视频教程 
+    * http://www.println.net/post/Kotlin-Video-Tutorials
+    * https://www.bilibili.com/video/av10642849
+
+* 慕课网
+    * 
+
 ## 进阶
 
 图书
