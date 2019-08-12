@@ -1,6 +1,17 @@
 https://gradle.org/
 
+https://plugins.gradle.org/
+
 https://blog.gradle.org/
+
+
+---
+
+Gradle Kotlin DSL：https://gradle.org/kotlin/
+
+构建扫描：https://gradle.com/build-scans
+
+Release：https://gradle.org/releases/
 
 ---
 
