@@ -10,7 +10,7 @@
 * [2018-08-06/Flutter新锐专家之路：工程研发体系篇](https://mp.weixin.qq.com/s/YMnzLGrUdjd1PFlkZdFMqQ)
 * [2018-07-25/闲鱼Fultter混合工程持续集成的最佳实践](https://mp.weixin.qq.com/s/5opwrgVr48e0YDYtEWFXZQ)
 * [2018-07-17/Flutter React编程范式实践](https://mp.weixin.qq.com/s/GRHvM0BHe2D9Qwb_nW0New)
-* [ 2018-07-10/Release Flutter的最后一公里](https://mp.weixin.qq.com/s/xV-FGR9o2ODLFJFq4YwnKg)
+* [2018-07-10/Release Flutter的最后一公里](https://mp.weixin.qq.com/s/xV-FGR9o2ODLFJFq4YwnKg)
 * [2018-07-07/Flutter混合工程改造实践](https://mp.weixin.qq.com/s/Q1z6Mal2pZbequxk5I5UYA)
 * [2018-06-29/GMTC-闲鱼Flutter实践效果访谈](https://mp.weixin.qq.com/s/kCa9qVBkvYRSAGmxyInIPQ)
 * [2018-06-23/Flutter Plugin调用Native APIs](https://mp.weixin.qq.com/s/WORru3f5rfABFMoxQ_2nYw)
