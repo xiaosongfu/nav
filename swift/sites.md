@@ -51,6 +51,11 @@ https://github.com/apple/swift-package-manager
 * API Design Guidelines - https://swift.org/documentation/api-design-guidelines/
 * [译] 官方 Swift API 设计规范 - https://www.yuque.com/kiwi/ios/swift-api-design
 
+## 代码风格指南
+
+* Ray Wenderlich 官方 Swift 代码风格指南文档 https://github.com/SketchK/swift-style-guide-by-raywenderlich-in-chinese
+* Google Swift Style Guide 中文版 http://pages.swift.gg/google-swift-style-guide-in-chinese/
+
 ---
 
 ### Stanford 公开课，Developing iOS ??? Apps with Swift 字幕翻译
