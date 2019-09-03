@@ -1,4 +1,4 @@
-https://developer.android.com/studio/releases/gradle-plugin
+https://developer.android.google.cn/studio/releases/gradle-plugin
 
 ---
 
