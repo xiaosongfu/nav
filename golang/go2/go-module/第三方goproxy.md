@@ -4,6 +4,12 @@
 
 ---
 
+* goproxy.cn：由七牛云运行，支持代理 sum.golang.org，经过 CDN 加速，高可用，可应用进公司复杂的开发环境中，亦可用作上游代理；
+* mirrors.aliyun.com/goproxy：由阿里云运行，不支持 sumdb 代理，经过 CDN 加速，高可用，可应用进公司复杂的开发环境中，亦可用作上游代理；
+* goproxy.io：由个人运行，支持代理 sum.golang.org。
+
+---
+
 ## 1. athens
 
 * https://github.com/gomods/athens
@@ -49,4 +55,11 @@ https://github.com/thumbai/thumbai
 
 如果您使用的是诸如Artifactory或Athens之类的存储库管理器，则只需要在存储库管理器中指向GOPROXY，并确保将GoCenter作为远程存储库（Artifactory中的开箱即用）包含在内。有关解析不在GoCenter中的模块的说明，请参阅JFrog CLI文档。
 
-## 5. xx
+## 5. https://goproxy.cn
+
+https://github.com/goproxy/goproxy.cn/blob/master/README.zh-CN.md
+
+* [goproxy.cn - 为中国 Go 语言开发者量身打造的模块代理](https://mp.weixin.qq.com/s/Pw_a5heUgyIkuJrXF4HCVg)
+* [Go 模块代理超大型库初始化速度实测：goproxy.cn vs goproxy.io](https://studygolang.com/topics/9994)
+
+## 6. https://mirrors.aliyun.com/goproxy

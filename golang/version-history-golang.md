@@ -1,6 +1,16 @@
 > Release Notes: [https://golang.google.cn/doc/devel/release.html](https://golang.google.cn/doc/devel/release.html)
 
+go 团队通常都是在每年的2月和8月发布大版本。
+
 ---
+
+## go1.13
+
+* go1.13(released 2019/09/03)
+
+`Go Team 一直保持着 2、8 月份发布的节奏。这次 Go 1.13 版本没能在 8 月份发布，而是在美国时间 9 月 3 日发布`
+
+-> [Go 1.13 正式发布，看看都有哪些值得关注的特性](https://mp.weixin.qq.com/s/7Q2vvFF88NXI3CgEFYY4mg)
 
 ## go1.12 
 
