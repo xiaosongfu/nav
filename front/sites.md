@@ -1,8 +1,23 @@
-> Vue
 
-vuejs - [cn.vuejs.org](https://cn.vuejs.org/)  
-router - [router.vuejs.org/zh](https://router.vuejs.org/zh/)  
-vuex - [vuex.vuejs.org/zh](https://vuex.vuejs.org/zh/)  
-ssr - [ssr.vuejs.org/zh](https://ssr.vuejs.org/zh/)  
-vuepress - [vuepress.vuejs.org/zh](https://vuepress.vuejs.org/zh)  
-- []()  
+vue
+    * https://cn.vuejs.org/
+    * https://github.com/vuejs/vue
+
+vue-router
+    * https://router.vuejs.org/zh/
+    * https://github.com/vuejs/vue-router
+
+vuex
+    * https://vuex.vuejs.org/zh/
+    * https://github.com/vuejs/vuex
+
+Vue Loader
+    * https://vue-loader.vuejs.org/zh/
+    * https://github.com/vuejs/vue-loader
+
+
+ssr - https://ssr.vuejs.org/zh/
+
+
+
+vuepress - https://vuepress.vuejs.org/zh
