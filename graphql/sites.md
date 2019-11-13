@@ -14,3 +14,6 @@ https://github.com/tinrab/spidey
 
 * 
 
+---
+
+* GraphQL测试实践 https://mp.weixin.qq.com/s/GPttCYatQhabtYOb7zXBrg
