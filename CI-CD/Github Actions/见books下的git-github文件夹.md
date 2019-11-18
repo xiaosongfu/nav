@@ -1,1 +1,1 @@
-见 books 下的 git-github 文件夹
+见 books 下的 git-github/chx-github-products 文件夹
