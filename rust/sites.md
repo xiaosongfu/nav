@@ -61,3 +61,7 @@ https://rustup.rs/
 https://crates.io/
 
 [docs.rs](https://docs.rs/) : 发布到 crates.io 的所有包的文档
+
+---
+
+https://github.com/hecrj/iced : https://iced.rs/ : A cross-platform GUI library for Rust, inspired by Elm
