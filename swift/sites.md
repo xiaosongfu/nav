@@ -8,17 +8,28 @@ https://forums.swift.org/
 
 https://ci.swift.org/
 
-bugs.swift.org
+https://bugs.swift.org/
 
-docs.swift.org
+https://docs.swift.org/
 
 ##### github
 
 https://github.com/apple/swift
 
+https://github.com/apple/swift-log
+https://github.com/apple/swift-metrics
+
 https://github.com/apple/swift-nio
+https://github.com/apple/swift-numerics
 
 https://github.com/apple/swift-package-manager
+
+https://github.com/apple/sourcekit-lsp
+
+##### swift-docker
+
+https://github.com/apple/swift-docker
+https://hub.docker.com/_/swift
 
 ---
 
