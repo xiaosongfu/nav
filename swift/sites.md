@@ -22,6 +22,8 @@ https://github.com/apple/swift-metrics
 https://github.com/apple/swift-nio
 https://github.com/apple/swift-numerics
 
+https://github.com/apple/swift-format
+
 https://github.com/apple/swift-package-manager
 
 https://github.com/apple/sourcekit-lsp

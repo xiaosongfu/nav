@@ -11,3 +11,10 @@ SwiftPM 于 2016 年随 Swift 3.0 一起发布。
 * Swift Package极简指南: https://tips.producter.io/swift-package-ji-jian-zhi-nan/
 
 
+---
+
+## SwiftPM Catalog
+
+https://zeezide.com/en/products/swiftpmcatalog/
+https://github.com/daveverwer/SwiftPMLibrary
+https://swiftpm.co/

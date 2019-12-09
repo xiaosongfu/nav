@@ -6,6 +6,7 @@
 
 * [Swift ABI 稳定后的几个问题](https://mp.weixin.qq.com/s/ihSoKWWMwhSAUWwM0nL8hw)
 * [Swift ABI 稳定对我们到底意味着什么](https://onevcat.com/2019/02/swift-abi/)
+* [Swift如何实现Rust无法实现的动态链接](https://gankra.github.io/blah/swift-abi/)
 
 ---
 
