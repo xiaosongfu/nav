@@ -3,6 +3,13 @@
 
 ---
 
+## 1.12
+
+* 1.12 2019/12/12
+
+-> [Flutter 1.12重磅发布：支持Web与macOS](https://mp.weixin.qq.com/s/_yooS7MNt9D16rj7SrT6ng)
+-> [谷歌 Flutter 1.12 正式发布](https://mp.weixin.qq.com/s/3cNLxikf9RutqsUY7kCKXA)
+
 ## 1.7
 
 我们非常高兴地向大家宣布又一个正式版本的发布 —— Flutter 1.7，这是继上次 I/O 时众多重要功能发布以来的一次小更新。Flutter 1.7 包含了对 AndroidX 的支持，满足了 Play 商店近期对应用提出的要求，包含了一些新的和增强过的组件，修复了开发者们提出的 bug 等。
@@ -12,8 +19,6 @@
 ## 1.5
 
 在 Google I/O 2019 开发者大会上，Dart 团队宣布推出了 Flutter 1.5 稳定版本，同时也宣布发布 Flutter for web 的 Preview 版本，至此，Flutter 不再只是一个移动框架，而是一个多平台框架。
-
-## 1.x
 
 ## v1.2.0
 
