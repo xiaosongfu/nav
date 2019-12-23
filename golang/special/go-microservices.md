@@ -15,6 +15,8 @@ https://micro.mu/blog/cn/
 
 go-micro 的官博 [micro.mu/blog](https://micro.mu/blog/) 有一份现成的[翻译文档](http://btfak.com/page2/)，可以快速学习上手。
 
+https://github.com/micro-in-cn/tutorials Micro 中文示例、教程、资料，源码解读
+
 ## go-kit
 
 https://github.com/go-kit/kit

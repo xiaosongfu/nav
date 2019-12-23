@@ -34,6 +34,9 @@ Rust 的第一个正式版 1.0.0 是 2015年5月发布的。
 
 # Version
 
+* Version 1.40.0（2019-12-19）
+    - [Rust 1.40 如期而至](https://mp.weixin.qq.com/s/5L0UEK1Bkd_4HoWMM6Dsaw)
+
 * Version 1.39.0 (2019-11-14)
     - [Rust 1.39.0发布，async/.await终于稳定了](https://mp.weixin.qq.com/s/ucfgne0As_1RRehIlvAfsA)
 
