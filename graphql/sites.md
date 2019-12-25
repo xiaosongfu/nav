@@ -1,19 +1,34 @@
 
+https://graphql.org/
 
+https://landscape.graphql.org/
 
-
-* https://github.com/99designs/gqlgen : go generate based graphql server library https://gqlgen.com
-
-
----
-
-
-* 使用 Go 编写微服务及其 GraphQL 网关
-https://juejin.im/post/5b94cf476fb9a05d26593f07
-https://github.com/tinrab/spidey
-
-* 
+https://graphql.github.io/graphql-spec/
 
 ---
 
-* GraphQL测试实践 https://mp.weixin.qq.com/s/GPttCYatQhabtYOb7zXBrg
+The GraphQL Foundation plans to host the GraphQL specification, GraphQL.js reference implementation, DataLoader library, and GraphiQL developer tool. (Graphql 基金会计划托管 GraphQL 规范、 GraphQL.js 参考实现、 DataLoader 库和 GraphiQL 开发工具。)
+
+https://github.com/graphql
+
+https://github.com/graphql/graphql-spec
+
+https://github.com/graphql/graphiql : An in-browser IDE for exploring GraphQL.
+
+https://github.com/graphql/graphql-js : A reference implementation of GraphQL for JavaScript
+
+https://github.com/graphql/express-graphql : Create a GraphQL HTTP server with Express.
+
+---
+
+https://github.com/apollographql
+
+https://github.com/apollographql/apollo-server
+
+https://github.com/apollographql/apollo-client
+
+https://github.com/apollographql/apollo-ios
+
+https://github.com/apollographql/apollo-android
+
+
