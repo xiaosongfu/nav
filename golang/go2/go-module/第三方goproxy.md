@@ -1,12 +1,13 @@
-* https://athens.azurefd.net
-* https://goproxy.io
-* https://gocenter.io
-
----
+> 推荐：
 
 * goproxy.cn：由七牛云运行，支持代理 sum.golang.org，经过 CDN 加速，高可用，可应用进公司复杂的开发环境中，亦可用作上游代理；
 * mirrors.aliyun.com/goproxy：由阿里云运行，不支持 sumdb 代理，经过 CDN 加速，高可用，可应用进公司复杂的开发环境中，亦可用作上游代理；
 * goproxy.io：由个人运行，支持代理 sum.golang.org。
+
+> 其他：
+
+* https://athens.azurefd.net
+* https://gocenter.io
 
 ---
 
@@ -63,3 +64,6 @@ https://github.com/goproxy/goproxy.cn/blob/master/README.zh-CN.md
 * [Go 模块代理超大型库初始化速度实测：goproxy.cn vs goproxy.io](https://studygolang.com/topics/9994)
 
 ## 6. https://mirrors.aliyun.com/goproxy
+
+## 7. 
+
