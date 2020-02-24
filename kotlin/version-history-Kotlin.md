@@ -2,13 +2,18 @@
 
 ---
 
-!> kotlin 1.3
+## kotlin 1.3
 
-暂无
+* 1.3.60 (November 18, 2019)
+* 1.3.50 (August 22, 2019)
+* 1.3.40
+* 1.3.30
+* 1.3.20
+* 1.3
 
----
+-> [Kotlin 1.3 Released with Coroutines, Kotlin/Native Beta, and more](https://blog.jetbrains.com/kotlin/2018/10/kotlin-1-3/)
 
-!> kotlin 1.2
+## kotlin 1.2
 
 * kotlin 1.2.61 (released 2018/08/29)
 
@@ -26,6 +31,6 @@
 
 ---
 
-* [Kotlin Goes Open Source!](https://blog.jetbrains.com/kotlin/2012/02/kotlin-goes-open-source-2/) @ February 14, 2012 
+* February 14, 2012 : [Kotlin Goes Open Source!](https://blog.jetbrains.com/kotlin/2012/02/kotlin-goes-open-source-2/) 
 
-* [Hello World](https://blog.jetbrains.com/kotlin/2011/07/hello-world-2/) @ July 19, 2011
+* July 19, 2011 : [Hello World](https://blog.jetbrains.com/kotlin/2011/07/hello-world-2/)

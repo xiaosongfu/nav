@@ -1,4 +1,6 @@
 
+https://oam.dev/
+
 https://openappmodel.io/
 
 
@@ -8,10 +10,10 @@ https://openappmodel.io/
 ## 官宣文章
 
 重磅发布 | 全球首个云原生应用标准定义与架构模型 OAM 正式开源 : https://mp.weixin.qq.com/s/a0OJFOcgT-nkDi8CJkAu1g
+
 如何像智能机一样管理云端应用？全球首个应用管理模型开源 : https://mp.weixin.qq.com/s/lh4t9MNlfI5GqJeMFj7Mew
 
-Dapr发布：帮助开发者群体轻松构建微服务应用程序
- : https://mp.weixin.qq.com/s/uTDFE30Ih39B87z2L1q_5g
+
 
 ## Rudr 项目
 

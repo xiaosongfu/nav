@@ -1,0 +1,1 @@
+Rudr 项目: 这个项目是 Open Application Model 在 Kubernetes 上的标准实现。Rudr 项目本身是 Kubernetes 的一个标准插件，只要安装上去即可为用户提供标准的 OAM 风格的的应用管理能力，通过模块化应用特征同 SMI，Knative，Istio 等应用基础设施能力无缝对接。值得一提的是，Rudr 项目是由 Rust 编写完成的，它的实现简洁、高效，性能优异，也是全世界第一个 Rust 实现的 Kubernetes 生态开源组件。

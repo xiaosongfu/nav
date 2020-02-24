@@ -6,6 +6,7 @@ SwiftPM 于 2016 年随 Swift 3.0 一起发布。
 ---
 
 * Swift Package Manager 快速入门指引 https://aotu.io/notes/2016/04/28/SPM/index.html
+
 * WWDC 2018：细说 Swift 包管理工具 (Swift Package Manager) https://juejin.im/post/5b1f536a5188257d9b79dbcf
 
 * Swift Package极简指南: https://tips.producter.io/swift-package-ji-jian-zhi-nan/

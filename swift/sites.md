@@ -16,10 +16,10 @@ https://docs.swift.org/
 
 https://github.com/apple/swift
 
+https://github.com/apple/swift-nio
 https://github.com/apple/swift-log
 https://github.com/apple/swift-metrics
 
-https://github.com/apple/swift-nio
 https://github.com/apple/swift-numerics
 
 https://github.com/apple/swift-format

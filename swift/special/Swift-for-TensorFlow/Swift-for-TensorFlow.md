@@ -1,8 +1,14 @@
 https://github.com/tensorflow/swift
 
+
+
+
+
+
+
 ---
 
-> Swift for TensorFlow 官方教程  
+## Swift for TensorFlow 官方教程  
 
 https://github.com/tensorflow/swift-tutorials/blob/master/iris/swift_tensorflow_tutorial.ipynb
 
@@ -10,6 +16,6 @@ Swift for TensorFlow 是今年的 TensorFlow 峰会上，Chris 团队发布的�
 
 机器学习入门教程最经典就是识别鸢尾花，iris detection。本篇教程就是 Swift for TensorFlow 版本的 iris detection，对 Swift 做机器学习感兴趣的筒子不要错过。
 
----
+## 文章
 
 * 谷歌开源 Swift for TensorFlow：我们是不是终于可以放下Python了？ http://www.techug.com/post/google-open-source-swift-for-tensoflow.html

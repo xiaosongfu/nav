@@ -10,3 +10,4 @@ https://gradle.org/kotlin/
 * Gradle Kotlin DSL 入门：https://docs.gradle.org/current/userguide/kotlin_dsl.html
 
 
+* 2019-08-07-迁移到 Gradle Kotlin DSL
