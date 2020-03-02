@@ -10,6 +10,10 @@
 
 -> [](https://mp.weixin.qq.com/s/_Nak0GWo2RtYUFRoO9-yLg)
 
+## v3.6 
+
+* 3.6.0 (2020/02/25)
+
 ## v3.5
 
 * 3.5.3 (2019/12)
