@@ -6,6 +6,12 @@ go 团队通常都是在每年的2月和8月发布大版本。
 
 ---
 
+## go1.14
+
+* go1.14 ()
+
+-> [Go 1.14发版说明](https://mp.weixin.qq.com/s/UCvCsS_T89MKnhNTEolZ0A)
+
 ## go1.13
 
 * go1.13.6 (released 2020/01/09)

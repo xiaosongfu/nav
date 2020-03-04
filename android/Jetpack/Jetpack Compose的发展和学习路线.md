@@ -3,8 +3,8 @@
 在2019年5月的 Google I/O 大会上面，Jetpack 团队首次为大家介绍了 Jetpack Compose， 一种全新的 Android UI 组件库。
 
 > 相关 Session：
-* [0-Keynote]()
-* [xx]()
+
+* [Declarative UI Patterns (Google I/O'19)]()
 
 ## 2. Android Dev Summit 2019/10/23
 
