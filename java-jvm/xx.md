@@ -1,4 +1,4 @@
-#### JDK11正式发布
+#### JDK 11 正式发布
 
 不过与 Java 9 和 Java 10 这两个被称为“功能性的版本”不同（两者均只提供半年的技术支持），Java 11 不仅提供了长期支持服务，还将作为 Java 平台的参考实现。Oracle 直到2023年9月都会为 Java 11 提供技术支持，而补丁和安全警告等扩展支持将持续到2026年。
 
@@ -10,7 +10,6 @@
 
 * Java 11 / JDK 11 正式发布！ https://www.oschina.net/news/100305/java-11-released-sep-25
 
-* Java 11 正式发布，新特性了解一下？
-https://mp.weixin.qq.com/s/R69cFgigOLyUU6X5kbKXhg
+* Java 11 正式发布，新特性了解一下？ https://mp.weixin.qq.com/s/R69cFgigOLyUU6X5kbKXhg
 
 * 重磅：JDK11正式发布！史上最全所有特性完整解读！  https://mp.weixin.qq.com/s/Yz8V3inWN8uErKM-IdMFWQ

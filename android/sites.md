@@ -1,4 +1,12 @@
+https://android.com/
+https://ci.android.com/
 
+https://developer.android.google.cn/
+
+https://source.android.google.cn/
+
+
+---
 
 Google Developers Training  
 https://developer.android.google.cn/courses
@@ -28,12 +36,7 @@ Recent Support Library Revisions：https://developer.android.google.cn/topic/lib
 
 AndroidX Overview：https://developer.android.google.cn/jetpack/androidx/
 
-https://dl.google.com/dl/android/maven2/index.html  ==> 查看所有版本信息
-
-#### Android
-
-官网 - [developer.android.google.cn](https://developer.android.google.cn/)  
-源码 - [source.android.google.cn](https://source.android.google.cn/)  
+https://dl.google.com/dl/android/maven2/index.html  ==> 查看所有版本信息 
 
 Android Developers Blog - [android-developers.googleblog.com](https://android-developers.googleblog.com/)  
 
